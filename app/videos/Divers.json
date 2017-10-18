@@ -1,0 +1,451 @@
+[
+    {
+        "image": "images/small-3615_Usul_-_Le_Rêve.jpg",
+        "videoId": "playlist/Divers/3615_Usul_-_Le_Rêve",
+        "duration": "5:19",
+        "seen": true,
+        "type": "Video",
+        "file": "/media/hdd/Videos/Divers/3615_Usul_-_Le_Rêve.mp4",
+        "age": 18,
+        "title": "3615 Usul - Le Rêve"
+    },
+    {
+        "image": "images/small-Les_Femmes_avec_Fillon.jpg",
+        "file": "/media/hdd/Videos/Divers/Les_Femmes_avec_Fillon.mp4",
+        "seen": true,
+        "type": "Video",
+        "duration": "4:59",
+        "videoId": "playlist/Divers/Les_Femmes_avec_Fillon",
+        "title": "Les Femmes avec Fillon",
+        "age": 18
+    },
+    {
+        "image": "images/small-A_plat_ventre_devant_Sarkozy_-_Le_Journal_de_17h17.jpg",
+        "seen": true,
+        "file": "/media/hdd/Videos/Divers/A_plat_ventre_devant_Sarkozy_-_Le_Journal_de_17h17.mp4",
+        "type": "Video",
+        "duration": "3:15",
+        "videoId": "playlist/Divers/A_plat_ventre_devant_Sarkozy_-_Le_Journal_de_17h17",
+        "title": "A plat ventre devant Sarkozy - Le Journal de 17h17",
+        "age": 18
+    },
+    {
+        "image": "images/small-D'où_viennent_les_Indo-européens_-_Les_cultures_archéologiques.jpg",
+        "duration": "18:39",
+        "videoId": "playlist/Divers/D'où_viennent_les_Indo-européens_-_Les_cultures_archéologiques",
+        "type": "Video",
+        "seen": true,
+        "file": "/media/hdd/Videos/Divers/D'où_viennent_les_Indo-européens_-_Les_cultures_archéologiques.mp4",
+        "age": 18,
+        "title": "D'où viennent les Indo-européens - Les cultures archéologiques"
+    },
+    {
+        "image": "images/small-Gagner_la_guerre_avec_sa_langue_-_Windtalkers.jpg",
+        "title": "Gagner la guerre avec sa langue - Windtalkers",
+        "age": 18,
+        "file": "/media/hdd/Videos/Divers/Gagner_la_guerre_avec_sa_langue_-_Windtalkers.mp4",
+        "type": "Video",
+        "seen": false,
+        "videoId": "playlist/Divers/Gagner_la_guerre_avec_sa_langue_-_Windtalkers",
+        "duration": "15:13"
+    },
+    {
+        "title": "Hip-Hop  - Réflexions Sur Une Musique Populaire",
+        "age": 18,
+        "seen": false,
+        "type": "Video",
+        "file": "/media/hdd/Videos/Divers/Hip-Hop__-_Réflexions_Sur_Une_Musique_Populaire.mp4",
+        "duration": "16:27",
+        "videoId": "playlist/Divers/Hip-Hop__-_Réflexions_Sur_Une_Musique_Populaire",
+        "image": "images/small-Hip-Hop__-_Réflexions_Sur_Une_Musique_Populaire.jpg"
+    },
+    {
+        "videoId": "playlist/Divers/L'Antre_du_Mea_-_Retour_Vers_le_Futur_PARTIE_2",
+        "duration": "35:18",
+        "file": "/media/hdd/Videos/Divers/L'Antre_du_Mea_-_Retour_Vers_le_Futur_PARTIE_2.mp4",
+        "seen": false,
+        "type": "Video",
+        "age": 18,
+        "title": "L'Antre du Mea - Retour Vers le Futur PARTIE 2",
+        "image": "images/small-L'Antre_du_Mea_-_Retour_Vers_le_Futur_PARTIE_2.jpg"
+    },
+    {
+        "file": "/media/hdd/Videos/Divers/L'Antre_du_Mea_-_Retour_Vers_le_Futur_PARTIE_3.mp4",
+        "type": "Video",
+        "seen": false,
+        "videoId": "playlist/Divers/L'Antre_du_Mea_-_Retour_Vers_le_Futur_PARTIE_3",
+        "duration": "30:20",
+        "title": "L'Antre du Mea - Retour Vers le Futur PARTIE 3",
+        "age": 18,
+        "image": "images/small-L'Antre_du_Mea_-_Retour_Vers_le_Futur_PARTIE_3.jpg"
+    },
+    {
+        "image": "images/small-L'Antre_du_Mea_-_Retour_Vers_le_Futur_PARTIE_I.jpg",
+        "duration": "25:57",
+        "videoId": "playlist/Divers/L'Antre_du_Mea_-_Retour_Vers_le_Futur_PARTIE_I",
+        "seen": false,
+        "type": "Video",
+        "file": "/media/hdd/Videos/Divers/L'Antre_du_Mea_-_Retour_Vers_le_Futur_PARTIE_I.mp4",
+        "age": 18,
+        "title": "L'Antre du Mea - Retour Vers le Futur PARTIE I"
+    },
+    {
+        "age": 18,
+        "title": "Le wenja de far cry primal",
+        "duration": "9:36",
+        "videoId": "playlist/Divers/le_wenja_de_far_cry_primal",
+        "type": "Video",
+        "file": "/media/hdd/Videos/Divers/le_wenja_de_far_cry_primal.mp4",
+        "seen": false,
+        "image": "images/small-le_wenja_de_far_cry_primal.jpg"
+    },
+    {
+        "image": "images/small-CHROMA_S01.07._VIDOCQ.jpg",
+        "seen": true,
+        "type": "Video",
+        "file": "/media/hdd/Videos/Divers/CHROMA_S01.07._VIDOCQ.mp4",
+        "videoId": "playlist/Divers/CHROMA_S01.07._VIDOCQ",
+        "duration": "23:57",
+        "title": "CHROMA S01.07. VIDOCQ",
+        "age": 18
+    },
+    {
+        "duration": "6:28",
+        "videoId": "playlist/Divers/FILM_WARS_11_-_Les_aventures_du_baron_de_Munchausen",
+        "type": "Video",
+        "file": "/media/hdd/Videos/Divers/FILM_WARS_11_-_Les_aventures_du_baron_de_Munchausen.mp4",
+        "seen": true,
+        "age": 18,
+        "title": "FILM WARS 11 - Les aventures du baron de Munchausen",
+        "image": "images/small-FILM_WARS_11_-_Les_aventures_du_baron_de_Munchausen.jpg"
+    },
+    {
+        "image": "images/small-Manipulation_et_Politique.jpg",
+        "duration": "1:22:23",
+        "videoId": "playlist/Divers/Manipulation_et_Politique",
+        "file": "/media/hdd/Videos/Divers/Manipulation_et_Politique.mp4",
+        "type": "Video",
+        "seen": true,
+        "age": 18,
+        "title": "Manipulation et Politique"
+    },
+    {
+        "image": "images/small-LE_FOSSOYEUR_DE_FILMS_26_-_Planète_Hurlante.jpg",
+        "seen": false,
+        "file": "/media/hdd/Videos/Divers/LE_FOSSOYEUR_DE_FILMS_26_-_Planète_Hurlante.mp4",
+        "type": "Video",
+        "videoId": "playlist/Divers/LE_FOSSOYEUR_DE_FILMS_26_-_Planète_Hurlante",
+        "duration": "25:09",
+        "title": "LE FOSSOYEUR DE FILMS 26 - Planète Hurlante",
+        "age": 18
+    },
+    {
+        "image": "images/small-CHROMA_S01.08_PIÈGE_À_HONG_KONG.jpg",
+        "videoId": "playlist/Divers/CHROMA_S01.08_PIÈGE_À_HONG_KONG",
+        "duration": "23:01",
+        "type": "Video",
+        "file": "/media/hdd/Videos/Divers/CHROMA_S01.08_PIÈGE_À_HONG_KONG.mp4",
+        "seen": true,
+        "age": 18,
+        "title": "CHROMA S01.08 PIÈGE À HONG KONG"
+    },
+    {
+        "image": "images/small-Aladdin_-_Ce_rêve_bleu.jpg",
+        "age": 3,
+        "title": "Aladdin - Ce rêve bleu",
+        "duration": "2:38",
+        "videoId": "playlist/Divers/Aladdin_-_Ce_rêve_bleu",
+        "seen": false,
+        "file": "/media/hdd/Videos/Divers/Aladdin_-_Ce_rêve_bleu.mp4",
+        "type": "Audio"
+    },
+    {
+        "image": "images/small-La_reine_des_neiges_-_let_it_go.jpg",
+        "title": "La reine des neiges - let it go",
+        "age": 3,
+        "file": "/media/hdd/Videos/Divers/La_reine_des_neiges_-_let_it_go.mp4",
+        "type": "Audio",
+        "seen": false,
+        "videoId": "playlist/Divers/La_reine_des_neiges_-_let_it_go",
+        "duration": "4:02"
+    },
+    {
+        "age": 1,
+        "image": "images/small-Comptines_et_chansons_pour_enfants.jpg",
+        "title": "Comptines et chansons pour enfants",
+        "videoId": "playlist/Divers/Comptines_et_chansons_pour_enfants",
+        "duration": "42:43",
+        "seen": false,
+        "type": "Audio"
+    },
+    {
+        "seen": false,
+        "type": "Audio",
+        "file": "/media/hdd/Videos/Divers/Soline_Histoire_Vie.mov",
+        "videoId": "playlist/Divers/Soline_Histoire_Vie",
+        "duration": "1:03",
+        "title": "Soline chante l'histoire de la vie",
+        "age": 1,
+        "image": "images/small-Soline_Histoire_Vie.jpg"
+    },
+    {
+        "image": "images/small-La_reine_des_neiges_-_libérée_délivrée.jpg",
+        "age": 3,
+        "title": "La reine des neiges - libérée délivrée",
+        "videoId": "playlist/Divers/La_reine_des_neiges_-_libérée_délivrée",
+        "duration": "3:39",
+        "seen": false,
+        "type": "Audio",
+        "file": "/media/hdd/Videos/Divers/La_reine_des_neiges_-_libérée_délivrée.mp4"
+    },
+    {
+        "image": "images/small-Le_Willi_Waller_2006_-_Têtes_à_claques.jpg",
+        "file": "/media/hdd/Videos/Divers/Le_Willi_Waller_2006_-_Têtes_à_claques.mp4",
+        "seen": true,
+        "type": "Video",
+        "videoId": "playlist/Divers/Le_Willi_Waller_2006_-_Têtes_à_claques",
+        "duration": "3:02",
+        "title": "Le Willi Waller 2006 - Têtes à claques",
+        "age": 18
+    },
+    {
+        "file": "/media/hdd/Videos/Divers/Le_choc_des_titans_-_Le_Moment_Meurice.mp4",
+        "type": "Video",
+        "seen": true,
+        "videoId": "playlist/Divers/Le_choc_des_titans_-_Le_Moment_Meurice",
+        "duration": "5:12",
+        "title": "Le choc des titans - Le Moment Meurice",
+        "age": 18,
+        "image": "images/small-Le_choc_des_titans_-_Le_Moment_Meurice.jpg"
+    },
+    {
+        "image": "images/small-Je_suis_-_BigFlo_&_Oli_(critique).jpg",
+        "videoId": "playlist/Divers/Je_suis_-_BigFlo_&_Oli_(critique)",
+        "duration": "30:36",
+        "file": "/media/hdd/Videos/Divers/Je_suis_-_BigFlo_&_Oli_(critique).mp4",
+        "type": "Video",
+        "seen": true,
+        "age": 18,
+        "title": "Je suis - BigFlo & Oli (critique)"
+    },
+    {
+        "image": "images/small-What_I_learned_from_President_Obama_-_Smarter_Every_Day.jpg",
+        "file": "/media/hdd/Videos/Divers/What_I_learned_from_President_Obama_-_Smarter_Every_Day.mp4",
+        "type": "Video",
+        "seen": true,
+        "videoId": "playlist/Divers/What_I_learned_from_President_Obama_-_Smarter_Every_Day",
+        "duration": "8:10",
+        "title": "What I learned from President Obama - Smarter Every Day",
+        "age": 18
+    },
+    {
+        "title": "Mind-Blowing Magic Magnets - Smarter Every Day",
+        "age": 18,
+        "type": "Video",
+        "seen": true,
+        "file": "/media/hdd/Videos/Divers/Mind-Blowing_Magic_Magnets_-_Smarter_Every_Day.mp4",
+        "duration": "10:16",
+        "videoId": "playlist/Divers/Mind-Blowing_Magic_Magnets_-_Smarter_Every_Day",
+        "image": "images/small-Mind-Blowing_Magic_Magnets_-_Smarter_Every_Day.jpg"
+    },
+    {
+        "image": "images/small-Point_Culture__-_Les_'clichés'_de_films_de_super-héros.jpg",
+        "duration": "34:31",
+        "videoId": "playlist/Divers/Point_Culture__-_Les_'clichés'_de_films_de_super-héros",
+        "file": "/media/hdd/Videos/Divers/Point_Culture__-_Les_'clichés'_de_films_de_super-héros.mp4",
+        "seen": true,
+        "type": "Video",
+        "age": 18,
+        "title": "Point Culture  - Les 'clichés' de films de super-héros"
+    },
+    {
+        "image": "images/small-Can_you_really_tell_if_a_kid_is_lying_-_Kang_Lee.jpg",
+        "title": "Can you really tell if a kid is lying - Kang Lee",
+        "age": 18,
+        "seen": true,
+        "type": "Video",
+        "file": "/media/hdd/Videos/Divers/Can_you_really_tell_if_a_kid_is_lying_-_Kang_Lee.mp4",
+        "duration": "13:36",
+        "videoId": "playlist/Divers/Can_you_really_tell_if_a_kid_is_lying_-_Kang_Lee"
+    },
+    {
+        "age": 18,
+        "title": "Le vote blanc - Le Moment Meurice",
+        "videoId": "playlist/Divers/Le_vote_blanc_-_Le_Moment_Meurice",
+        "duration": "5:12",
+        "type": "Video",
+        "seen": true,
+        "file": "/media/hdd/Videos/Divers/Le_vote_blanc_-_Le_Moment_Meurice.mp4",
+        "image": "images/small-Le_vote_blanc_-_Le_Moment_Meurice.jpg"
+    },
+    {
+        "image": "images/small-CHROMA_S01.09._DOUCE_NUIT,_SANGLANTE_NUIT.jpg",
+        "age": 18,
+        "title": "CHROMA S01.09. DOUCE NUIT, SANGLANTE NUIT",
+        "duration": "25:29",
+        "videoId": "playlist/Divers/CHROMA_S01.09._DOUCE_NUIT,_SANGLANTE_NUIT",
+        "seen": false,
+        "type": "Video",
+        "file": "/media/hdd/Videos/Divers/CHROMA_S01.09._DOUCE_NUIT,_SANGLANTE_NUIT.mp4"
+    },
+    {
+        "type": "Video",
+        "file": "/media/hdd/Videos/Divers/Humans_Need_Not_Apply.mp4",
+        "seen": false,
+        "duration": "15:00",
+        "videoId": "playlist/Divers/Humans_Need_Not_Apply",
+        "title": "Humans Need Not Apply",
+        "age": 18,
+        "image": "images/small-Humans_Need_Not_Apply.jpg"
+    },
+    {
+        "age": 18,
+        "title": "A Brief History of Santa",
+        "duration": "3:54",
+        "videoId": "playlist/Divers/A_Brief_History_of_Santa",
+        "seen": false,
+        "file": "/media/hdd/Videos/Divers/A_Brief_History_of_Santa.mp4",
+        "type": "Video",
+        "image": "images/small-A_Brief_History_of_Santa.jpg"
+    },
+    {
+        "file": "/media/hdd/Videos/Divers/How_to_Become_Pope.mp4",
+        "seen": true,
+        "type": "Video",
+        "videoId": "playlist/Divers/How_to_Become_Pope",
+        "duration": "5:08",
+        "title": "How to Become Pope",
+        "age": 18,
+        "image": "images/small-How_to_Become_Pope.jpg"
+    },
+    {
+        "image": "images/small-Aider_un_réfugié,_c'est_risqué_-_le_Moment_Meurice.jpg",
+        "age": 18,
+        "title": "Aider un réfugié, c'est risqué - le Moment Meurice",
+        "duration": "5:14",
+        "videoId": "playlist/Divers/Aider_un_réfugié,_c'est_risqué_-_le_Moment_Meurice",
+        "file": "/media/hdd/Videos/Divers/Aider_un_réfugié,_c'est_risqué_-_le_Moment_Meurice.mp4",
+        "type": "Video",
+        "seen": true
+    },
+    {
+        "duration": "6:27",
+        "videoId": "playlist/Divers/Jouer_pour_ne_rien_dire_[2_minutes_pour_convaincre]",
+        "file": "/media/hdd/Videos/Divers/Jouer_pour_ne_rien_dire_[2_minutes_pour_convaincre].mp4",
+        "seen": true,
+        "type": "Video",
+        "age": 18,
+        "title": "Jouer pour ne rien dire [2 minutes pour convaincre]",
+        "image": "images/small-Jouer_pour_ne_rien_dire_[2_minutes_pour_convaincre].jpg"
+    },
+    {
+        "image": "images/small-Sherlock_S04E01.jpg",
+        "age": 18,
+        "title": "Sherlock S04E01",
+        "videoId": "playlist/Divers/Sherlock_S04E01",
+        "duration": "1:28:26",
+        "type": "Video",
+        "file": "/media/hdd/Videos/Divers/Sherlock_S04E01.mkv",
+        "seen": true
+    },
+    {
+        "image": "images/small-Avec_Christian,_sans-abri_-_Le_Moment_Meurice.jpg",
+        "duration": "5:15",
+        "videoId": "playlist/Divers/Avec_Christian,_sans-abri_-_Le_Moment_Meurice",
+        "type": "Video",
+        "seen": true,
+        "file": "/media/hdd/Videos/Divers/Avec_Christian,_sans-abri_-_Le_Moment_Meurice.mp4",
+        "age": 18,
+        "title": "Avec Christian, sans-abri - Le Moment Meurice"
+    },
+    {
+        "title": "Sherlock S04E02",
+        "age": 18,
+        "file": "/media/hdd/Videos/Divers/Sherlock_S04E02.mkv",
+        "seen": true,
+        "type": "Video",
+        "videoId": "playlist/Divers/Sherlock_S04E02",
+        "duration": "1:29:00",
+        "image": "images/small-Sherlock_S04E02.jpg"
+    },
+    {
+        "seen": true,
+        "file": "/media/hdd/Videos/Divers/Sherlock_-_S04E03.mkv",
+        "type": "Video",
+        "duration": "1:28:51",
+        "videoId": "playlist/Divers/Sherlock_-_S04E03",
+        "title": "Sherlock - S04E03",
+        "age": 18,
+        "image": "images/small-Sherlock_-_S04E03.jpg"
+    },
+    {
+        "title": "CHROMA S01.10.GREMLINS",
+        "age": 18,
+        "file": "/media/hdd/Videos/Divers/CHROMA_S01.10.GREMLINS.mp4",
+        "type": "Video",
+        "seen": false,
+        "videoId": "playlist/Divers/CHROMA_S01.10.GREMLINS",
+        "duration": "26:43",
+        "image": "images/small-CHROMA_S01.10.GREMLINS.jpg"
+    },
+    {
+        "image": "images/small-La_reine_des_neiges_-_Je_voudrais_un_bonhomme_de_neige.jpg",
+        "title": "La reine des neiges - Je voudrais un bonhomme de neige",
+        "age": 3,
+        "seen": false,
+        "type": "Video",
+        "file": "/media/hdd/Videos/Divers/La_reine_des_neiges_-_Je_voudrais_un_bonhomme_de_neige.mp4",
+        "duration": "3:22",
+        "videoId": "playlist/Divers/La_reine_des_neiges_-_Je_voudrais_un_bonhomme_de_neige"
+    },
+    {
+        "image": "images/small-La_reine_des_neiges_-_Do_You_Want_to_Build_a_Snowman.jpg",
+        "title": "La reine des neiges - Do You Want to Build a Snowman",
+        "age": 3,
+        "file": "/media/hdd/Videos/Divers/La_reine_des_neiges_-_Do_You_Want_to_Build_a_Snowman.mp4",
+        "seen": false,
+        "type": "Video",
+        "duration": "3:21",
+        "videoId": "playlist/Divers/La_reine_des_neiges_-_Do_You_Want_to_Build_a_Snowman"
+    },
+    {
+        "title": "Carte blanche à Usul - une fierté populaire à reconstruire",
+        "age": 18,
+        "file": "/media/hdd/Videos/Divers/Carte_blanche_à_Usul_-_une_fierté_populaire_à_reconstruire.mp4",
+        "type": "Video",
+        "seen": true,
+        "duration": "10:27",
+        "videoId": "playlist/Divers/Carte_blanche_à_Usul_-_une_fierté_populaire_à_reconstruire",
+        "image": "images/small-Carte_blanche_à_Usul_-_une_fierté_populaire_à_reconstruire.jpg"
+    },
+    {
+        "image": "images/small-3_théorèmes_anti-démocratiques_(et_la_lotocratie)_-_Démocratie_3.jpg",
+        "file": "/media/hdd/Videos/Divers/3_théorèmes_anti-démocratiques_(et_la_lotocratie)_-_Démocratie_3.mp4",
+        "type": "Video",
+        "seen": false,
+        "duration": "22:43",
+        "videoId": "playlist/Divers/3_théorèmes_anti-démocratiques_(et_la_lotocratie)_-_Démocratie_3",
+        "title": "3 théorèmes anti-démocratiques (et la lotocratie) - Démocratie 3",
+        "age": 18
+    },
+    {
+        "image": "images/small-Nos_démocraties_divisent_-_Démocratie_2.jpg",
+        "seen": true,
+        "file": "/media/hdd/Videos/Divers/Nos_démocraties_divisent_-_Démocratie_2.mp4",
+        "type": "Video",
+        "duration": "16:07",
+        "videoId": "playlist/Divers/Nos_démocraties_divisent_-_Démocratie_2",
+        "title": "Nos démocraties divisent - Démocratie 2",
+        "age": 18
+    },
+    {
+        "image": "images/small-CHROMA_S01.11_LES_AFFRANCHIS.jpg",
+        "file": "/media/hdd/Videos/Divers/CHROMA_S01.11_LES_AFFRANCHIS.mp4",
+        "type": "Video",
+        "seen": true,
+        "videoId": "playlist/Divers/CHROMA_S01.11_LES_AFFRANCHIS",
+        "duration": "23:53",
+        "title": "CHROMA S01.11 LES AFFRANCHIS",
+        "age": 18
+    }
+]

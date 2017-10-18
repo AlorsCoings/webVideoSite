@@ -1,0 +1,192 @@
+[
+    {
+        "duration": "25:51",
+        "age": 3,
+        "file": "/media/hdd/Videos/CestPasSorcier/Araignées.mp4",
+        "seen": false,
+        "videoId": "playlist/CestPasSorcier/Araignées",
+        "title": "Araignées",
+        "image": "images/small-Araignées.jpg",
+        "type": "Video"
+    },
+    {
+        "file": "/media/hdd/Videos/CestPasSorcier/Bambou.mp4",
+        "age": 3,
+        "videoId": "playlist/CestPasSorcier/Bambou",
+        "seen": false,
+        "type": "Video",
+        "image": "images/small-Bambou.jpg",
+        "title": "Bambou",
+        "duration": "26:10"
+    },
+    {
+        "duration": "26:11",
+        "file": "/media/hdd/Videos/CestPasSorcier/Bébés_-_Histoire_d'une_naissance.mp4",
+        "age": 3,
+        "videoId": "playlist/CestPasSorcier/Bébés_-_Histoire_d'une_naissance",
+        "seen": false,
+        "image": "images/small-Bébés_-_Histoire_d'une_naissance.jpg",
+        "type": "Video",
+        "title": "Bébés - Histoire d'une naissance"
+    },
+    {
+        "videoId": "playlist/CestPasSorcier/Bonbons",
+        "seen": true,
+        "file": "/media/hdd/Videos/CestPasSorcier/Bonbons.mp4",
+        "age": 3,
+        "type": "Video",
+        "image": "images/small-Bonbons.jpg",
+        "title": "Bonbons",
+        "duration": "26:01"
+    },
+    {
+        "seen": false,
+        "videoId": "playlist/CestPasSorcier/Cuisine_de_chef_-_La_science_des_saveurs",
+        "age": 3,
+        "file": "/media/hdd/Videos/CestPasSorcier/Cuisine_de_chef_-_La_science_des_saveurs.mp4",
+        "title": "Cuisine de chef - La science des saveurs",
+        "type": "Video",
+        "image": "images/small-Cuisine_de_chef_-_La_science_des_saveurs.jpg",
+        "duration": "26:19"
+    },
+    {
+        "image": "images/small-Felins.jpg",
+        "type": "Video",
+        "title": "Felins",
+        "file": "/media/hdd/Videos/CestPasSorcier/Felins.mp4",
+        "age": 3,
+        "videoId": "playlist/CestPasSorcier/Felins",
+        "seen": true,
+        "duration": "25:57"
+    },
+    {
+        "duration": "25:40",
+        "file": "/media/hdd/Videos/CestPasSorcier/Feux_d'artifice_-_C'est_le_bouquet.mp4",
+        "age": 3,
+        "videoId": "playlist/CestPasSorcier/Feux_d'artifice_-_C'est_le_bouquet",
+        "seen": true,
+        "image": "images/small-Feux_d'artifice_-_C'est_le_bouquet.jpg",
+        "type": "Video",
+        "title": "Feux d'artifice - C'est le bouquet"
+    },
+    {
+        "duration": "26:14",
+        "videoId": "playlist/CestPasSorcier/Joie,_peur,_tristesse,_colère..._que_d'emotions",
+        "seen": true,
+        "file": "/media/hdd/Videos/CestPasSorcier/Joie,_peur,_tristesse,_colère..._que_d'emotions.mp4",
+        "age": 3,
+        "type": "Video",
+        "image": "images/small-Joie,_peur,_tristesse,_colère..._que_d'emotions.jpg",
+        "title": "Joie, peur, tristesse, colère... que d'emotions"
+    },
+    {
+        "title": "Les crocodiles",
+        "type": "Video",
+        "image": "images/small-Les_crocodiles.jpg",
+        "seen": false,
+        "videoId": "playlist/CestPasSorcier/Les_crocodiles",
+        "age": 3,
+        "file": "/media/hdd/Videos/CestPasSorcier/Les_crocodiles.mp4",
+        "duration": "26:00"
+    },
+    {
+        "videoId": "playlist/CestPasSorcier/Les_fourmis",
+        "seen": false,
+        "file": "/media/hdd/Videos/CestPasSorcier/Les_fourmis.mp4",
+        "age": 3,
+        "type": "Video",
+        "image": "images/small-Les_fourmis.jpg",
+        "title": "Les fourmis",
+        "duration": "26:10"
+    },
+    {
+        "duration": "25:57",
+        "seen": false,
+        "videoId": "playlist/CestPasSorcier/Les_hérissons",
+        "age": 3,
+        "file": "/media/hdd/Videos/CestPasSorcier/Les_hérissons.mp4",
+        "title": "Les hérissons",
+        "image": "images/small-Les_hérissons.jpg",
+        "type": "Video"
+    },
+    {
+        "duration": "26:02",
+        "file": "/media/hdd/Videos/CestPasSorcier/Le_soleil.mp4",
+        "age": 3,
+        "videoId": "playlist/CestPasSorcier/Le_soleil",
+        "seen": false,
+        "image": "images/small-Le_soleil.jpg",
+        "type": "Video",
+        "title": "Le soleil"
+    },
+    {
+        "file": "/media/hdd/Videos/CestPasSorcier/Les_secrets_du_chocolat.mp4",
+        "age": 3,
+        "videoId": "playlist/CestPasSorcier/Les_secrets_du_chocolat",
+        "seen": false,
+        "type": "Video",
+        "image": "images/small-Les_secrets_du_chocolat.jpg",
+        "title": "Les secrets du chocolat",
+        "duration": "26:00"
+    },
+    {
+        "duration": "26:19",
+        "type": "Video",
+        "image": "images/small-Méduses.jpg",
+        "title": "Méduses",
+        "file": "/media/hdd/Videos/CestPasSorcier/Méduses.mp4",
+        "age": 3,
+        "videoId": "playlist/CestPasSorcier/Méduses",
+        "seen": false
+    },
+    {
+        "duration": "26:00",
+        "seen": false,
+        "videoId": "playlist/CestPasSorcier/Papillons",
+        "age": 3,
+        "file": "/media/hdd/Videos/CestPasSorcier/Papillons.mp4",
+        "title": "Papillons",
+        "image": "images/small-Papillons.jpg",
+        "type": "Video"
+    },
+    {
+        "duration": "26:01",
+        "seen": false,
+        "videoId": "playlist/CestPasSorcier/Planète_sous_toutes_ses_latitudes",
+        "age": 3,
+        "file": "/media/hdd/Videos/CestPasSorcier/Planète_sous_toutes_ses_latitudes.mp4",
+        "title": "Planète sous toutes ses latitudes",
+        "type": "Video",
+        "image": "images/small-Planète_sous_toutes_ses_latitudes.jpg"
+    },
+    {
+        "duration": "26:01",
+        "type": "Video",
+        "image": "images/small-Rats,_souris,_hamsters_-_Les_rongeurs_se_font_les_dents.jpg",
+        "title": "Rats, souris, hamsters - Les rongeurs se font les dents",
+        "file": "/media/hdd/Videos/CestPasSorcier/Rats,_souris,_hamsters_-_Les_rongeurs_se_font_les_dents.mp4",
+        "age": 3,
+        "videoId": "playlist/CestPasSorcier/Rats,_souris,_hamsters_-_Les_rongeurs_se_font_les_dents",
+        "seen": false
+    },
+    {
+        "title": "Serpents - Des reptiles qui ont du charme",
+        "image": "images/small-Serpents_-_Des_reptiles_qui_ont_du_charme.jpg",
+        "type": "Video",
+        "seen": false,
+        "videoId": "playlist/CestPasSorcier/Serpents_-_Des_reptiles_qui_ont_du_charme",
+        "age": 3,
+        "file": "/media/hdd/Videos/CestPasSorcier/Serpents_-_Des_reptiles_qui_ont_du_charme.mp4",
+        "duration": "26:00"
+    },
+    {
+        "duration": "26:04",
+        "title": "Abeilles",
+        "image": "images/small-Abeilles.jpg",
+        "type": "Video",
+        "age": 3,
+        "file": "/media/hdd/Videos/CestPasSorcier/Abeilles.mp4",
+        "seen": true,
+        "videoId": "playlist/CestPasSorcier/Abeilles"
+    }
+]

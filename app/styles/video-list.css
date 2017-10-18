@@ -1,0 +1,84 @@
+.videos-container ul.videos {
+    list-style: none;
+    padding: 0px 0;
+}
+
+.videos-container ul.videos>li {
+    margin-top: 7px;
+    padding: 5px;
+}
+
+.videos-container a {
+    cursor: pointer;
+    padding-left: 0px;
+}
+
+.search-box {
+    z-index: 1;
+    margin-top: 0px;
+    position: fixed;
+    height: 80px;
+    width: 100%;
+    padding-top: 5px;
+    background-color: #DDDDDD;
+    font-size: 16px;
+}
+
+.videos-list {
+    padding-top: 80px;
+    padding-bottom: 330px;
+}
+
+.button-home {
+    font-size: 150px;
+}
+
+.video-list-item.ng-enter,
+.video-list-item.ng-leave,
+.video-list-item.ng-move {
+    -webkit-transition: 0.5s linear all;
+    transition: 0.5s linear all;
+}
+
+.video-list-item.ng-enter,
+.video-list-item.ng-move {
+    height: 0;
+    opacity: 0;
+    overflow: hidden;
+}
+
+.video-list-item.ng-enter.ng-enter-active,
+.video-list-item.ng-move.ng-move-active {
+    height: 180px;
+    opacity: 1;
+}
+
+.video-list-item.ng-leave {
+    opacity: 1;
+    height: 180px;
+    overflow: hidden;
+}
+
+.video-list-item.ng-leave.ng-leave-active {
+    height: 0;
+    opacity: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+@media only screen and (min-width: 400px) {
+    .search-box {
+        /* font-size: 14px; */
+        height: 45px;
+    }
+    .videos-list {
+        padding-top: 58px;
+    }
+    .video-list-item.ng-enter.ng-enter-active,
+    .video-list-item.ng-move.ng-move-active {
+        height: 386px;
+    }
+    .video-list-item.ng-leave {
+        height: 386px;
+    }
+}

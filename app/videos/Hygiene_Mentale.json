@@ -1,0 +1,242 @@
+[
+    {
+        "file": "/media/hdd/Videos/Hygiene_Mentale/EMI_1_-_Education_aux_médias_et_à_l'information_à_l'école_(Introduction).mp4",
+        "seen": true,
+        "title": "EMI 1 - Education aux médias et à l'information à l'école (Introduction)",
+        "age": 18,
+        "videoId": "playlist/Hygiene_Mentale/EMI_1_-_Education_aux_médias_et_à_l'information_à_l'école_(Introduction)",
+        "type": "Video",
+        "duration": "16:47",
+        "image": "images/small-EMI_1_-_Education_aux_médias_et_à_l'information_à_l'école_(Introduction).jpg"
+    },
+    {
+        "age": 18,
+        "title": "EMI 2 - Analyser les Images (Education aux médias)",
+        "seen": false,
+        "file": "/media/hdd/Videos/Hygiene_Mentale/EMI_2_-_Analyser_les_Images_(Education_aux_médias).mp4",
+        "image": "images/small-EMI_2_-_Analyser_les_Images_(Education_aux_médias).jpg",
+        "type": "Video",
+        "videoId": "playlist/Hygiene_Mentale/EMI_2_-_Analyser_les_Images_(Education_aux_médias)",
+        "duration": "18:02"
+    },
+    {
+        "seen": true,
+        "title": "Ep01 Un bébé médium avec 3 brins d'ADN est né en Angleterre (Zététique appliquée)",
+        "age": 18,
+        "file": "/media/hdd/Videos/Hygiene_Mentale/Ep01_Un_bébé_médium_avec_3_brins_d'ADN_est_né_en_Angleterre_(Zététique_appliquée).mp4",
+        "image": "images/small-Ep01_Un_bébé_médium_avec_3_brins_d'ADN_est_né_en_Angleterre_(Zététique_appliquée).jpg",
+        "type": "Video",
+        "duration": "25:15",
+        "videoId": "playlist/Hygiene_Mentale/Ep01_Un_bébé_médium_avec_3_brins_d'ADN_est_né_en_Angleterre_(Zététique_appliquée)"
+    },
+    {
+        "file": "/media/hdd/Videos/Hygiene_Mentale/Ep02_L’ouverture_d'esprit_et_ses_limites.mp4",
+        "age": 18,
+        "seen": true,
+        "title": "Ep02 L’ouverture d'esprit et ses limites",
+        "videoId": "playlist/Hygiene_Mentale/Ep02_L’ouverture_d'esprit_et_ses_limites",
+        "type": "Video",
+        "duration": "9:11",
+        "image": "images/small-Ep02_L’ouverture_d'esprit_et_ses_limites.jpg"
+    },
+    {
+        "image": "images/small-Ep03_L’Autodéfense_Intellectuelle_(des_outils_pour_la_recherche_d'information).jpg",
+        "duration": "20:45",
+        "videoId": "playlist/Hygiene_Mentale/Ep03_L’Autodéfense_Intellectuelle_(des_outils_pour_la_recherche_d'information)",
+        "type": "Video",
+        "title": "Ep03 L’Autodéfense Intellectuelle (des outils pour la recherche d'information)",
+        "seen": true,
+        "age": 18,
+        "file": "/media/hdd/Videos/Hygiene_Mentale/Ep03_L’Autodéfense_Intellectuelle_(des_outils_pour_la_recherche_d'information).mp4"
+    },
+    {
+        "image": "images/small-Ep04_Les_documentaires_moisis_(Les_géants_ont-ils_existé_).jpg",
+        "type": "Video",
+        "duration": "17:20",
+        "videoId": "playlist/Hygiene_Mentale/Ep04_Les_documentaires_moisis_(Les_géants_ont-ils_existé_)",
+        "title": "Ep04 Les documentaires moisis (Les géants ont-ils existé )",
+        "seen": true,
+        "age": 18,
+        "file": "/media/hdd/Videos/Hygiene_Mentale/Ep04_Les_documentaires_moisis_(Les_géants_ont-ils_existé_).mp4"
+    },
+    {
+        "type": "Video",
+        "duration": "20:04",
+        "videoId": "playlist/Hygiene_Mentale/Ep05_OVNI__-_l'origine_des_soucoupes_volantes_(Le_modéle_socio-psychologique)",
+        "image": "images/small-Ep05_OVNI__-_l'origine_des_soucoupes_volantes_(Le_modéle_socio-psychologique).jpg",
+        "file": "/media/hdd/Videos/Hygiene_Mentale/Ep05_OVNI__-_l'origine_des_soucoupes_volantes_(Le_modéle_socio-psychologique).mp4",
+        "title": "Ep05 OVNI  - l'origine des soucoupes volantes (Le modéle socio-psychologique)",
+        "seen": true,
+        "age": 18
+    },
+    {
+        "image": "images/small-Ep06_Les_fantômes_de_l'été_(Les_marronniers_du_paranormal).jpg",
+        "videoId": "playlist/Hygiene_Mentale/Ep06_Les_fantômes_de_l'été_(Les_marronniers_du_paranormal)",
+        "type": "Video",
+        "duration": "14:03",
+        "age": 18,
+        "seen": true,
+        "title": "Ep06 Les fantômes de l'été (Les marronniers du paranormal)",
+        "file": "/media/hdd/Videos/Hygiene_Mentale/Ep06_Les_fantômes_de_l'été_(Les_marronniers_du_paranormal).mp4"
+    },
+    {
+        "title": "Ep07 La désinformation - (pourquoi autant de trucs faux sur Internet)",
+        "seen": true,
+        "age": 18,
+        "file": "/media/hdd/Videos/Hygiene_Mentale/Ep07_La_désinformation_-_(pourquoi_autant_de_trucs_faux_sur_Internet).mp4",
+        "image": "images/small-Ep07_La_désinformation_-_(pourquoi_autant_de_trucs_faux_sur_Internet).jpg",
+        "duration": "12:41",
+        "videoId": "playlist/Hygiene_Mentale/Ep07_La_désinformation_-_(pourquoi_autant_de_trucs_faux_sur_Internet)",
+        "type": "Video"
+    },
+    {
+        "file": "/media/hdd/Videos/Hygiene_Mentale/Ep08_Les_publications_scientifiques_(l’énergie_libre_-_Effet_Dumas).mp4",
+        "title": "Ep08 Les publications scientifiques (l’énergie libre - Effet Dumas)",
+        "seen": true,
+        "age": 18,
+        "duration": "13:09",
+        "videoId": "playlist/Hygiene_Mentale/Ep08_Les_publications_scientifiques_(l’énergie_libre_-_Effet_Dumas)",
+        "type": "Video",
+        "image": "images/small-Ep08_Les_publications_scientifiques_(l’énergie_libre_-_Effet_Dumas).jpg"
+    },
+    {
+        "type": "Video",
+        "videoId": "playlist/Hygiene_Mentale/Ep09_La_science_participative_(Jouons_avec_le_Micro-Onde)",
+        "duration": "9:30",
+        "image": "images/small-Ep09_La_science_participative_(Jouons_avec_le_Micro-Onde).jpg",
+        "file": "/media/hdd/Videos/Hygiene_Mentale/Ep09_La_science_participative_(Jouons_avec_le_Micro-Onde).mp4",
+        "age": 18,
+        "title": "Ep09 La science participative (Jouons avec le Micro-Onde)",
+        "seen": true
+    },
+    {
+        "type": "Video",
+        "duration": "9:17",
+        "videoId": "playlist/Hygiene_Mentale/Ep10_Raisonner_de_façon_correcte_(Testez_votre_logique)",
+        "image": "images/small-Ep10_Raisonner_de_façon_correcte_(Testez_votre_logique).jpg",
+        "file": "/media/hdd/Videos/Hygiene_Mentale/Ep10_Raisonner_de_façon_correcte_(Testez_votre_logique).mp4",
+        "age": 18,
+        "seen": true,
+        "title": "Ep10 Raisonner de façon correcte (Testez votre logique)"
+    },
+    {
+        "file": "/media/hdd/Videos/Hygiene_Mentale/Ep11_Spiritualité_Quantique__-_les_utilisations_abusives_du_vocabulaire_scientifique.mp4",
+        "seen": true,
+        "title": "Ep11 Spiritualité Quantique  - les utilisations abusives du vocabulaire scientifique",
+        "age": 18,
+        "videoId": "playlist/Hygiene_Mentale/Ep11_Spiritualité_Quantique__-_les_utilisations_abusives_du_vocabulaire_scientifique",
+        "type": "Video",
+        "duration": "20:22",
+        "image": "images/small-Ep11_Spiritualité_Quantique__-_les_utilisations_abusives_du_vocabulaire_scientifique.jpg"
+    },
+    {
+        "file": "/media/hdd/Videos/Hygiene_Mentale/Ep12_Les_Arguments_Fallacieux.mp4",
+        "age": 18,
+        "title": "Ep12 Les Arguments Fallacieux",
+        "seen": true,
+        "videoId": "playlist/Hygiene_Mentale/Ep12_Les_Arguments_Fallacieux",
+        "duration": "13:57",
+        "type": "Video",
+        "image": "images/small-Ep12_Les_Arguments_Fallacieux.jpg"
+    },
+    {
+        "image": "images/small-Ep13_Comment_Tester_le_Paranormal_avec_la_Science__(Les_cartes_de_Zener).jpg",
+        "videoId": "playlist/Hygiene_Mentale/Ep13_Comment_Tester_le_Paranormal_avec_la_Science__(Les_cartes_de_Zener)",
+        "duration": "22:41",
+        "type": "Video",
+        "age": 18,
+        "title": "Ep13 Comment Tester le Paranormal avec la Science  (Les cartes de Zener)",
+        "seen": true,
+        "file": "/media/hdd/Videos/Hygiene_Mentale/Ep13_Comment_Tester_le_Paranormal_avec_la_Science__(Les_cartes_de_Zener).mp4"
+    },
+    {
+        "file": "/media/hdd/Videos/Hygiene_Mentale/Le_top_5_des_arguments_fallacieux_les_plus_communs.mp4",
+        "age": 18,
+        "seen": true,
+        "title": "Le top 5 des arguments fallacieux les plus communs",
+        "videoId": "playlist/Hygiene_Mentale/Le_top_5_des_arguments_fallacieux_les_plus_communs",
+        "duration": "15:47",
+        "type": "Video",
+        "image": "images/small-Le_top_5_des_arguments_fallacieux_les_plus_communs.jpg"
+    },
+    {
+        "image": "images/small-Obama_et_l_enseignement_de_l_Esprit_Critique_(VOSTFR).jpg",
+        "duration": "1:44",
+        "videoId": "playlist/Hygiene_Mentale/Obama_et_l_enseignement_de_l_Esprit_Critique_(VOSTFR)",
+        "type": "Video",
+        "seen": true,
+        "title": "Obama et l_enseignement de l_Esprit Critique (VOSTFR)",
+        "age": 18,
+        "file": "/media/hdd/Videos/Hygiene_Mentale/Obama_et_l_enseignement_de_l_Esprit_Critique_(VOSTFR).mp4"
+    },
+    {
+        "image": "images/small-14_-_Ep_Enquêter_sur_le_Paranormal_:_les_Diapositives_de_Roswell.jpg",
+        "duration": "27:53",
+        "videoId": "playlist/Hygiene_Mentale/14_-_Ep_Enquêter_sur_le_Paranormal_:_les_Diapositives_de_Roswell",
+        "type": "Video",
+        "seen": false,
+        "title": "14 - Ep Enquêter sur le Paranormal : les Diapositives de Roswell",
+        "age": 18,
+        "file": "/media/hdd/Videos/Hygiene_Mentale/14_-_Ep_Enquêter_sur_le_Paranormal_:_les_Diapositives_de_Roswell.mp4"
+    },
+    {
+        "age": 18,
+        "seen": false,
+        "title": "Illusionnisme et Imposture - Florent Martin",
+        "file": "/media/hdd/Videos/Hygiene_Mentale/Illusionnisme_et_Imposture_-_Florent_Martin.mp4",
+        "image": "images/small-Illusionnisme_et_Imposture_-_Florent_Martin.jpg",
+        "duration": "52:02",
+        "videoId": "playlist/Hygiene_Mentale/Illusionnisme_et_Imposture_-_Florent_Martin",
+        "type": "Video"
+    },
+    {
+        "image": "images/small-.jpg",
+        "type": "Video",
+        "duration": "",
+        "videoId": "playlist/Hygiene_Mentale/",
+        "title": "",
+        "seen": false,
+        "age": 18,
+        "file": "/media/hdd/Videos/Hygiene_Mentale/.mp4"
+    },
+    {
+        "file": "/media/hdd/Videos/Hygiene_Mentale/Illusionnisme_et_Imposture_-_Florent_Martin.mp4",
+        "age": 18,
+        "title": "Illusionnisme et Imposture - Florent Martin",
+        "seen": false,
+        "duration": "52:02",
+        "videoId": "playlist/Hygiene_Mentale/Illusionnisme_et_Imposture_-_Florent_Martin",
+        "type": "Video",
+        "image": "images/small-Illusionnisme_et_Imposture_-_Florent_Martin.jpg"
+    },
+    {
+        "file": "/media/hdd/Videos/Hygiene_Mentale/3_-_EMI_-_Remonter_à_la_Source_de_l_Information_(Education_aux_Médias_et_à_l_Information).mp4",
+        "title": "3 - EMI - Remonter à la Source de l_Information (Education aux Médias et à l_Information)",
+        "seen": false,
+        "age": 18,
+        "videoId": "playlist/Hygiene_Mentale/3_-_EMI_-_Remonter_à_la_Source_de_l_Information_(Education_aux_Médias_et_à_l_Information)",
+        "duration": "18:25",
+        "type": "Video",
+        "image": "images/small-3_-_EMI_-_Remonter_à_la_Source_de_l_Information_(Education_aux_Médias_et_à_l_Information).jpg"
+    },
+    {
+        "image": "images/small-4_-_EMI_-_La_propagation_des_rumeurs_(Education_aux_Médias).jpg",
+        "duration": "14:52",
+        "videoId": "playlist/Hygiene_Mentale/4_-_EMI_-_La_propagation_des_rumeurs_(Education_aux_Médias)",
+        "type": "Video",
+        "title": "4 - EMI - La propagation des rumeurs (Education aux Médias)",
+        "seen": false,
+        "age": 18,
+        "file": "/media/hdd/Videos/Hygiene_Mentale/4_-_EMI_-_La_propagation_des_rumeurs_(Education_aux_Médias).mp4"
+    },
+    {
+        "age": 18,
+        "title": "16 - Ep La Dent d_Or - Assurons-nous bien du fait avant de nous inquiéter de la cause",
+        "seen": true,
+        "file": "/media/hdd/Videos/Hygiene_Mentale/16_-_Ep_La_Dent_d_Or_-_Assurons-nous_bien_du_fait_avant_de_nous_inquiéter_de_la_cause.mp4",
+        "image": "images/small-16_-_Ep_La_Dent_d_Or_-_Assurons-nous_bien_du_fait_avant_de_nous_inquiéter_de_la_cause.jpg",
+        "type": "Video",
+        "videoId": "playlist/Hygiene_Mentale/16_-_Ep_La_Dent_d_Or_-_Assurons-nous_bien_du_fait_avant_de_nous_inquiéter_de_la_cause",
+        "duration": "5:21"
+    }
+]

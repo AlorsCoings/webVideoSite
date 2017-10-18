@@ -1,0 +1,61 @@
+<div>
+    <form class="form-inline text-center control-buttons">
+        <button ng-click="$ctrl.pause()" type="button" class="btn btn-default">
+            <span class="glyphicon" ng-class="$ctrl.pauseButton"></span>
+        </button>
+        <button ng-click="$ctrl.stop()" type="button" class="btn btn-default">
+            <span class="glyphicon glyphicon-stop"></span>
+        </button>
+        <button ng-click="$ctrl.stopAll()" type="button" class="btn btn-default">
+            <span class="glyphicon glyphicon-remove"></span>
+        </button>
+        <button ng-click="$ctrl.volumeUp()" type="button" class="btn btn-default">
+            <span class="glyphicon glyphicon-volume-up"></span>
+        </button>
+        <button ng-click="$ctrl.volumeDown()" type="button" class="btn btn-default">
+            <span class="glyphicon glyphicon-volume-down"></span>
+        </button>
+        <button ng-click="$ctrl.switchButtons()" type="button" class="btn btn-default switch-button">
+            <span class="glyphicon" ng-class="$ctrl.switchButtonsArrow()"></span>
+        </button>
+    </form>
+    <div ng-show="$ctrl.moreButtons" class="more-control-buttons text-center ng-hide">
+        <form class="form-inline control-buttons">
+            <button ng-click="$ctrl.fastBackward()" type="button" class="btn btn-default">
+                <span class="glyphicon glyphicon-fast-backward"></span>
+            </button>
+            <button ng-click="$ctrl.backward()" type="button" class="btn btn-default">
+                <span class="glyphicon glyphicon-backward"></span>
+            </button>
+            <button ng-click="$ctrl.forward()" type="button" class="btn btn-default">
+                <span class="glyphicon glyphicon-forward"></span>
+            </button>
+            <button ng-click="$ctrl.fastForward()" type="button" class="btn btn-default">
+                <span class="glyphicon glyphicon-fast-forward"></span>
+            </button>
+        </form>
+        <form class="form-inline control-buttons">
+            <button ng-click="$ctrl.previousAudio()" type="button" class="btn btn-default">
+                <span class="glyphicon glyphicon-chevron-left"></span>
+            </button>
+            <span class="button-info">Audio</span>
+            <button ng-click="$ctrl.nextAudio()" type="button" class="btn btn-default">
+                <span class="glyphicon glyphicon-chevron-right"></span>
+            </button>
+        </form>
+        <form class="form-inline control-buttons">
+            <button ng-click="$ctrl.previousSubtitle()" type="button" class="btn btn-default">
+                <span class="glyphicon glyphicon-chevron-left"></span>
+            </button>
+            <span class="button-info">Sous-titre</span>
+            <button ng-click="$ctrl.nextSubtitle()" type="button" class="btn btn-default">
+                <span class="glyphicon glyphicon-chevron-right"></span>
+            </button>
+        </form>
+        <form class="form-inline control-buttons">
+            <button ng-click="$ctrl.toggleSubtitles()" type="button" class="btn btn-default">
+                <span>Afficher/Enlever les sous-titres</span>
+            </button>
+        </form>
+    </div>
+</div>

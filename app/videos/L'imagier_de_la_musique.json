@@ -1,0 +1,506 @@
+[
+    {
+        "duration": "0:24",
+        "title": "01 L'imagier de la musique (titre)",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/01 L'imagier de la musique (titre).mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/01_L'imagier_de_la_musique_(titre).mp3",
+        "age": 1
+    },
+    {
+        "duration": "2:25",
+        "title": "02 Symphonie n°1 en Ré majeur_ 3ème",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/02 Symphonie n°1 en Ré majeur_ 3ème.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/02_Symphonie_n°1_en_Ré_majeur__3ème.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:08",
+        "title": "03 Chapitre La hauteur",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/03 Chapitre La hauteur.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/03_Chapitre_La_hauteur.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:56",
+        "title": "04 Grave",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/04 Grave.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/04_Grave.mp3",
+        "age": 1
+    },
+    {
+        "duration": "1:05",
+        "title": "05 Aigu",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/05 Aigu.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/05_Aigu.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:19",
+        "title": "06 Sur la vague (comptine)",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/06 Sur la vague (comptine).mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/06_Sur_la_vague_(comptine).mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:15",
+        "title": "07 Annonce jeu hauteur",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/07 Annonce jeu hauteur.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/07_Annonce_jeu_hauteur.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:35",
+        "title": "08 Jeu hauteur",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/08 Jeu hauteur.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/08_Jeu_hauteur.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:57",
+        "title": "09 Du grave vers l'aigu",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/09 Du grave vers l'aigu.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/09_Du_grave_vers_l'aigu.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:58",
+        "title": "10 De l'aigu vers le grave",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/10 De l'aigu vers le grave.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/10_De_l'aigu_vers_le_grave.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:21",
+        "title": "11 Do Re Mi Fa Sol La Si Do (chanson",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/11 Do Re Mi Fa Sol La Si Do (chanson.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/11_Do_Re_Mi_Fa_Sol_La_Si_Do_(chanson.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:08",
+        "title": "12 Chapitre L' intensité",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/12 Chapitre L' intensité.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/12_Chapitre_L'_intensité.mp3",
+        "age": 1
+    },
+    {
+        "duration": "1:10",
+        "title": "13 Piano",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/13 Piano.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/13_Piano.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:37",
+        "title": "14 Forte",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/14 Forte.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/14_Forte.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:13",
+        "title": "15 Debout lapin ! (comptine)",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/15 Debout lapin ! (comptine).mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/15_Debout_lapin_!_(comptine).mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:15",
+        "title": "16 Annonce jeu intensité",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/16 Annonce jeu intensité.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/16_Annonce_jeu_intensité.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:32",
+        "title": "17 Jeu intensité",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/17 Jeu intensité.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/17_Jeu_intensité.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:58",
+        "title": "18 De plus en plus fort",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/18 De plus en plus fort.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/18_De_plus_en_plus_fort.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:53",
+        "title": "19 De plus en plus doux",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/19 De plus en plus doux.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/19_De_plus_en_plus_doux.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:51",
+        "title": "20 C'est doux , c'est fort (chanson)",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/20 C'est doux , c'est fort (chanson).mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/20_C'est_doux_,_c'est_fort_(chanson).mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:09",
+        "title": "21 Chapitre La durée",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/21 Chapitre La durée.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/21_Chapitre_La_durée.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:52",
+        "title": "22 Long",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/22 Long.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/22_Long.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:33",
+        "title": "23 Court",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/23 Court.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/23_Court.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:43",
+        "title": "24 Le serpent et la grenouille (comp",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/24 Le serpent et la grenouille (comp.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/24_Le_serpent_et_la_grenouille_(comp.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:14",
+        "title": "25 Annonce jeu durée",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/25 Annonce jeu durée.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/25_Annonce_jeu_durée.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:53",
+        "title": "26 Jeu durée",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/26 Jeu durée.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/26_Jeu_durée.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:09",
+        "title": "27 Chapitre Le silence",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/27 Chapitre Le silence.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/27_Chapitre_Le_silence.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:13",
+        "title": "28 Ecoute le silence",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/28 Ecoute le silence.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/28_Ecoute_le_silence.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:33",
+        "title": "29 Un son, des silences",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/29 Un son, des silences.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/29_Un_son,_des_silences.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:13",
+        "title": "30 Sur la pointe des sons (comptine)",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/30 Sur la pointe des sons (comptine).mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/30_Sur_la_pointe_des_sons_(comptine).mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:09",
+        "title": "31 Chapitre Le rythme",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/31 Chapitre Le rythme.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/31_Chapitre_Le_rythme.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:48",
+        "title": "32 Rapide",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/32 Rapide.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/32_Rapide.mp3",
+        "age": 1
+    },
+    {
+        "duration": "1:05",
+        "title": "33 Lent",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/33 Lent.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/33_Lent.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:26",
+        "title": "34 L'éléphant et l'antilope (comptin",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/34 L'éléphant et l'antilope (comptin.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/34_L'éléphant_et_l'antilope_(comptin.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:14",
+        "title": "35 Annonce jeu rythme",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/35 Annonce jeu rythme.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/35_Annonce_jeu_rythme.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:54",
+        "title": "36 Jeu rythme",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/36 Jeu rythme.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/36_Jeu_rythme.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:57",
+        "title": "37 De plus en plus vite",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/37 De plus en plus vite.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/37_De_plus_en_plus_vite.mp3",
+        "age": 1
+    },
+    {
+        "duration": "1:0",
+        "title": "38 Frère jacques (chanson)",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/38 Frère jacques (chanson).mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/38_Frère_jacques_(chanson).mp3",
+        "age": 1
+    },
+    {
+        "duration": "1:04",
+        "title": "39 De plus en plus lent",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/39 De plus en plus lent.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/39_De_plus_en_plus_lent.mp3",
+        "age": 1
+    },
+    {
+        "duration": "1:11",
+        "title": "40 1 kilomètre à pied (chanson)",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/40 1 kilomètre à pied (chanson).mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/40_1_kilomètre_à_pied_(chanson).mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:04",
+        "title": "41 Ecoute l'histoire",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/41 Ecoute l'histoire.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/41_Ecoute_l'histoire.mp3",
+        "age": 1
+    },
+    {
+        "duration": "2:34",
+        "title": "42 Le chat et la souris (conte music",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/42 Le chat et la souris (conte music.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/42_Le_chat_et_la_souris_(conte_music.mp3",
+        "age": 1
+    },
+    {
+        "duration": "2:33",
+        "title": "43 OpéraLes contes d'Hoffmann_ Barca",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/43 OpéraLes contes d'Hoffmann_ Barca.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/43_OpéraLes_contes_d'Hoffmann__Barca.mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:05",
+        "title": "44 Chapitre les notes de musique",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/44 Chapitre les notes de musique.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/44_Chapitre_les_notes_de_musique.mp3",
+        "age": 1
+    },
+    {
+        "duration": "1:0",
+        "title": "45 La farandole des notes (chanson)",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/45 La farandole des notes (chanson).mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/45_La_farandole_des_notes_(chanson).mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:28",
+        "title": "46 Do (Am Stram Gram)",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/46 Do (Am Stram Gram).mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/46_Do_(Am_Stram_Gram).mp3",
+        "age": 1
+    },
+    {
+        "duration": "1:12",
+        "title": "47 Ré (Un lapin blotti dans son terr",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/47 Ré (Un lapin blotti dans son terr.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/47_Ré_(Un_lapin_blotti_dans_son_terr.mp3",
+        "age": 1
+    },
+    {
+        "duration": "1:15",
+        "title": "48 Mi (Au Clair de la Lune)",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/48 Mi (Au Clair de la Lune).mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/48_Mi_(Au_Clair_de_la_Lune).mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:17",
+        "title": "49 La farandole des notes_ jusqu'à m",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/49 La farandole des notes_ jusqu'à m.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/49_La_farandole_des_notes__jusqu'à_m.mp3",
+        "age": 1
+    },
+    {
+        "duration": "1:04",
+        "title": "50 Fa (Le Roi Dagobert)",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/50 Fa (Le Roi Dagobert).mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/50_Fa_(Le_Roi_Dagobert).mp3",
+        "age": 1
+    },
+    {
+        "duration": "1:52",
+        "title": "51 Sol (Ainsi font font font)",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/51 Sol (Ainsi font font font).mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/51_Sol_(Ainsi_font_font_font).mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:23",
+        "title": "52 La farandole des notes_ jusqu'à s",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/52 La farandole des notes_ jusqu'à s.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/52_La_farandole_des_notes__jusqu'à_s.mp3",
+        "age": 1
+    },
+    {
+        "duration": "1:02",
+        "title": "53 La (Dans la forêt lointaine)",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/53 La (Dans la forêt lointaine).mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/53_La_(Dans_la_forêt_lointaine).mp3",
+        "age": 1
+    },
+    {
+        "duration": "1:40",
+        "title": "54 Si (Alouette)",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/54 Si (Alouette).mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/54_Si_(Alouette).mp3",
+        "age": 1
+    },
+    {
+        "duration": "0:59",
+        "title": "55 La farandole des notes (karaoke 3",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/55 La farandole des notes (karaoke 3.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/55_La_farandole_des_notes_(karaoke_3.mp3",
+        "age": 1
+    },
+    {
+        "duration": "3:03",
+        "title": "56 Casse-Noisette_ Danse des Mirlito",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_musique/56 Casse-Noisette_ Danse des Mirlito.mp3",
+        "image": "images/small-L'imagier_de_la_musique.jpg",
+        "videoId": "playlist/L'imagier_de_la_musique/56_Casse-Noisette__Danse_des_Mirlito.mp3",
+        "age": 1
+    }
+]

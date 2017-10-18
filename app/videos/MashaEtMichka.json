@@ -1,0 +1,382 @@
+[
+    {
+        "seen": true,
+        "title": "3,2,1 Joyeux Noël (Épisode 3) Dessins animés en Français!",
+        "image": "images/small-3,2,1_Joyeux_Noël_(Épisode_3)_Dessins_animés_en_Français!.jpg",
+        "videoId": "playlist/MashaEtMichka/3,2,1_Joyeux_Noël_(Épisode_3)_Dessins_animés_en_Français!",
+        "age": 3,
+        "type": "Video",
+        "duration": "7:51",
+        "file": "/media/hdd/Videos/MashaEtMichka/3,2,1_Joyeux_Noël_(Épisode_3)_Dessins_animés_en_Français!.mp4"
+    },
+    {
+        "age": 3,
+        "videoId": "playlist/MashaEtMichka/À_Qui_Est_Cette_Trace_(Épisode_4)_Dessins_animés_en_Français!",
+        "file": "/media/hdd/Videos/MashaEtMichka/À_Qui_Est_Cette_Trace_(Épisode_4)_Dessins_animés_en_Français!.mp4",
+        "type": "Video",
+        "duration": "7:00",
+        "title": "À Qui Est Cette Trace (Épisode 4) Dessins animés en Français!",
+        "seen": true,
+        "image": "images/small-À_Qui_Est_Cette_Trace_(Épisode_4)_Dessins_animés_en_Français!.jpg"
+    },
+    {
+        "videoId": "playlist/MashaEtMichka/Caсhe_caсhe_c'est_pas_pour_les_peureux_(Épisode_13)",
+        "age": 3,
+        "type": "Video",
+        "duration": "6:41",
+        "file": "/media/hdd/Videos/MashaEtMichka/Caсhe_caсhe_c'est_pas_pour_les_peureux_(Épisode_13).mp4",
+        "title": "Caсhe caсhe c'est pas pour les peureux (Épisode 13)",
+        "seen": true,
+        "image": "images/small-Caсhe_caсhe_c'est_pas_pour_les_peureux_(Épisode_13).jpg"
+    },
+    {
+        "image": "images/small-Collection_1_(6-10_épisodes)_30_minutes_de_dessins_animés.jpg",
+        "title": "Collection 1 (6-10 épisodes) 30 minutes de dessins animés",
+        "seen": true,
+        "duration": "32:52",
+        "type": "Video",
+        "file": "/media/hdd/Videos/MashaEtMichka/Collection_1_(6-10_épisodes)_30_minutes_de_dessins_animés.mp4",
+        "videoId": "playlist/MashaEtMichka/Collection_1_(6-10_épisodes)_30_minutes_de_dessins_animés",
+        "age": 3
+    },
+    {
+        "duration": "32:46",
+        "type": "Video",
+        "file": "/media/hdd/Videos/MashaEtMichka/Collection_2_(11-15_épisodes)_30_minutes_de_dessins_animés.mp4",
+        "videoId": "playlist/MashaEtMichka/Collection_2_(11-15_épisodes)_30_minutes_de_dessins_animés",
+        "age": 3,
+        "image": "images/small-Collection_2_(11-15_épisodes)_30_minutes_de_dessins_animés.jpg",
+        "seen": true,
+        "title": "Collection 2 (11-15 épisodes) 30 minutes de dessins animés"
+    },
+    {
+        "image": "images/small-Collection_3_(1-5_épisodes)_30_minutes_de_dessins_animés.jpg",
+        "seen": true,
+        "title": "Collection 3 (1-5 épisodes) 30 minutes de dessins animés",
+        "duration": "33:43",
+        "type": "Video",
+        "file": "/media/hdd/Videos/MashaEtMichka/Collection_3_(1-5_épisodes)_30_minutes_de_dessins_animés.mp4",
+        "videoId": "playlist/MashaEtMichka/Collection_3_(1-5_épisodes)_30_minutes_de_dessins_animés",
+        "age": 3
+    },
+    {
+        "seen": true,
+        "title": "Il Etait Une Fois (Épisode 1) Dessins animés pour enfants",
+        "image": "images/small-Il_Etait_Une_Fois_(Épisode_1)_Dessins_animés_pour_enfants.jpg",
+        "age": 3,
+        "videoId": "playlist/MashaEtMichka/Il_Etait_Une_Fois_(Épisode_1)_Dessins_animés_pour_enfants",
+        "file": "/media/hdd/Videos/MashaEtMichka/Il_Etait_Une_Fois_(Épisode_1)_Dessins_animés_pour_enfants.mp4",
+        "duration": "6:50",
+        "type": "Video"
+    },
+    {
+        "type": "Video",
+        "duration": "6:55",
+        "file": "/media/hdd/Videos/MashaEtMichka/Joue_Avec_Les_Loups_(Épisode_5).mp4",
+        "videoId": "playlist/MashaEtMichka/Joue_Avec_Les_Loups_(Épisode_5)",
+        "age": 3,
+        "image": "images/small-Joue_Avec_Les_Loups_(Épisode_5).jpg",
+        "title": "Joue Avec Les Loups (Épisode 5)",
+        "seen": true
+    },
+    {
+        "image": "images/small-Jour_De_Pêche_(Épisode_8).jpg",
+        "seen": true,
+        "title": "Jour De Pêche (Épisode 8)",
+        "file": "/media/hdd/Videos/MashaEtMichka/Jour_De_Pêche_(Épisode_8).mp4",
+        "duration": "6:53",
+        "type": "Video",
+        "age": 3,
+        "videoId": "playlist/MashaEtMichka/Jour_De_Pêche_(Épisode_8)"
+    },
+    {
+        "image": "images/small-La_Rentrée_Des_Classes_(Épisode_11)_Animation_français_2016.jpg",
+        "seen": true,
+        "title": "La Rentrée Des Classes (Épisode 11) Animation français 2016",
+        "type": "Video",
+        "duration": "6:51",
+        "file": "/media/hdd/Videos/MashaEtMichka/La_Rentrée_Des_Classes_(Épisode_11)_Animation_français_2016.mp4",
+        "videoId": "playlist/MashaEtMichka/La_Rentrée_Des_Classes_(Épisode_11)_Animation_français_2016",
+        "age": 3
+    },
+    {
+        "title": "La Saison Des Amours (Épisode 7)",
+        "seen": true,
+        "image": "images/small-La_Saison_Des_Amours_(Épisode_7).jpg",
+        "age": 3,
+        "videoId": "playlist/MashaEtMichka/La_Saison_Des_Amours_(Épisode_7)",
+        "file": "/media/hdd/Videos/MashaEtMichka/La_Saison_Des_Amours_(Épisode_7).mp4",
+        "type": "Video",
+        "duration": "6:47"
+    },
+    {
+        "duration": "6:52",
+        "type": "Video",
+        "file": "/media/hdd/Videos/MashaEtMichka/Le_Jour_Des_Confitures_(Épisode_6).mp4",
+        "videoId": "playlist/MashaEtMichka/Le_Jour_Des_Confitures_(Épisode_6)",
+        "age": 3,
+        "image": "images/small-Le_Jour_Des_Confitures_(Épisode_6).jpg",
+        "seen": true,
+        "title": "Le Jour Des Confitures (Épisode 6)"
+    },
+    {
+        "videoId": "playlist/MashaEtMichka/Masha_Et_Le_Loup_(Épisode_9)",
+        "age": 3,
+        "type": "Video",
+        "duration": "6:54",
+        "file": "/media/hdd/Videos/MashaEtMichka/Masha_Et_Le_Loup_(Épisode_9).mp4",
+        "title": "Masha Et Le Loup (Épisode 9)",
+        "seen": true,
+        "image": "images/small-Masha_Et_Le_Loup_(Épisode_9).jpg"
+    },
+    {
+        "image": "images/small-Michka_est_malade_(Épisode_16)_Nouveauté!.jpg",
+        "seen": true,
+        "title": "Michka est malade (Épisode 16) Nouveauté!",
+        "file": "/media/hdd/Videos/MashaEtMichka/Michka_est_malade_(Épisode_16)_Nouveauté!.mp4",
+        "type": "Video",
+        "duration": "6:59",
+        "age": 3,
+        "videoId": "playlist/MashaEtMichka/Michka_est_malade_(Épisode_16)_Nouveauté!"
+    },
+    {
+        "image": "images/small-Mon_Bébé_A_Faim_(Épisode_18).jpg",
+        "seen": true,
+        "title": "Mon Bébé A Faim (Épisode 18)",
+        "type": "Video",
+        "duration": "6:46",
+        "file": "/media/hdd/Videos/MashaEtMichka/Mon_Bébé_A_Faim_(Épisode_18).mp4",
+        "videoId": "playlist/MashaEtMichka/Mon_Bébé_A_Faim_(Épisode_18)",
+        "age": 3
+    },
+    {
+        "seen": false,
+        "title": "Ne Pas Déranger Avant Le Printemps (Épisode 2)",
+        "image": "images/small-Ne_Pas_Déranger_Avant_Le_Printemps_(Épisode_2).jpg",
+        "age": 3,
+        "videoId": "playlist/MashaEtMichka/Ne_Pas_Déranger_Avant_Le_Printemps_(Épisode_2)",
+        "file": "/media/hdd/Videos/MashaEtMichka/Ne_Pas_Déranger_Avant_Le_Printemps_(Épisode_2).mp4",
+        "duration": "6:52",
+        "type": "Video"
+    },
+    {
+        "image": "images/small-On_ne_passe_pas_(Épisode_12)_Dessins_animés_en_Français!.jpg",
+        "seen": true,
+        "title": "On ne passe pas (Épisode 12) Dessins animés en Français!",
+        "file": "/media/hdd/Videos/MashaEtMichka/On_ne_passe_pas_(Épisode_12)_Dessins_animés_en_Français!.mp4",
+        "type": "Video",
+        "duration": "7:00",
+        "age": 3,
+        "videoId": "playlist/MashaEtMichka/On_ne_passe_pas_(Épisode_12)_Dessins_animés_en_Français!"
+    },
+    {
+        "videoId": "playlist/MashaEtMichka/Recette_Pour_Un_Désastre_(Épisode_17)",
+        "age": 3,
+        "duration": "6:52",
+        "type": "Video",
+        "file": "/media/hdd/Videos/MashaEtMichka/Recette_Pour_Un_Désastre_(Épisode_17).mp4",
+        "seen": true,
+        "title": "Recette Pour Un Désastre (Épisode 17)",
+        "image": "images/small-Recette_Pour_Un_Désastre_(Épisode_17).jpg"
+    },
+    {
+        "age": 3,
+        "videoId": "playlist/MashaEtMichka/Rien_Ne_Sert_De_Mentir_(Épisode_14)",
+        "file": "/media/hdd/Videos/MashaEtMichka/Rien_Ne_Sert_De_Mentir_(Épisode_14).mp4",
+        "type": "Video",
+        "duration": "7:00",
+        "seen": true,
+        "title": "Rien Ne Sert De Mentir (Épisode 14)",
+        "image": "images/small-Rien_Ne_Sert_De_Mentir_(Épisode_14).jpg"
+    },
+    {
+        "image": "images/small-Tous_Sur_La_Glace_(Épisode_10).jpg",
+        "seen": true,
+        "title": "Tous Sur La Glace (Épisode 10)",
+        "duration": "6:54",
+        "type": "Video",
+        "file": "/media/hdd/Videos/MashaEtMichka/Tous_Sur_La_Glace_(Épisode_10).mp4",
+        "videoId": "playlist/MashaEtMichka/Tous_Sur_La_Glace_(Épisode_10)",
+        "age": 3
+    },
+    {
+        "videoId": "playlist/MashaEtMichka/Une_grande_collection_de_dessins_animés_(Partie_1)_60_min_pour_enfants_en_Français",
+        "age": 3,
+        "type": "Video",
+        "duration": "58:26",
+        "file": "/media/hdd/Videos/MashaEtMichka/Une_grande_collection_de_dessins_animés_(Partie_1)_60_min_pour_enfants_en_Français.mp4",
+        "title": "Une grande collection de dessins animés (Partie 1) 60 min pour enfants en Français",
+        "seen": false,
+        "image": "images/small-Une_grande_collection_de_dessins_animés_(Partie_1)_60_min_pour_enfants_en_Français.jpg"
+    },
+    {
+        "image": "images/small-Un_Nouvel_Ami_(Épisode_15)_Dessins_animés_pour_les_enfants.jpg",
+        "seen": true,
+        "title": "Un Nouvel Ami (Épisode 15) Dessins animés pour les enfants",
+        "duration": "6:58",
+        "type": "Video",
+        "file": "/media/hdd/Videos/MashaEtMichka/Un_Nouvel_Ami_(Épisode_15)_Dessins_animés_pour_les_enfants.mp4",
+        "videoId": "playlist/MashaEtMichka/Un_Nouvel_Ami_(Épisode_15)_Dessins_animés_pour_les_enfants",
+        "age": 3
+    },
+    {
+        "file": "/media/hdd/Videos/MashaEtMichka/Сompilation_1_(20_minutes)_Longue_duree_dessins_animés_pour_bébé.mp4",
+        "type": "Video",
+        "duration": "20:06",
+        "age": 3,
+        "videoId": "playlist/MashaEtMichka/Сompilation_1_(20_minutes)_Longue_duree_dessins_animés_pour_bébé",
+        "image": "images/small-Сompilation_1_(20_minutes)_Longue_duree_dessins_animés_pour_bébé.jpg",
+        "title": "Сompilation 1 (20 minutes) Longue duree dessins animés pour bébé",
+        "seen": true
+    },
+    {
+        "type": "Video",
+        "duration": "20:12",
+        "file": "/media/hdd/Videos/MashaEtMichka/Сompilation_2_(20_minutes_de_dessins_animés)_3_Episodes!_NOUVEAU!.mp4",
+        "videoId": "playlist/MashaEtMichka/Сompilation_2_(20_minutes_de_dessins_animés)_3_Episodes!_NOUVEAU!",
+        "age": 3,
+        "image": "images/small-Сompilation_2_(20_minutes_de_dessins_animés)_3_Episodes!_NOUVEAU!.jpg",
+        "seen": true,
+        "title": "Сompilation 2 (20 minutes de dessins animés) 3 Episodes! NOUVEAU!"
+    },
+    {
+        "title": "Сompilation 3 (20 minutes) Longue duree dessins animés pour bébé",
+        "seen": false,
+        "image": "images/small-Сompilation_3_(20_minutes)_Longue_duree_dessins_animés_pour_bébé.jpg",
+        "age": 3,
+        "videoId": "playlist/MashaEtMichka/Сompilation_3_(20_minutes)_Longue_duree_dessins_animés_pour_bébé",
+        "file": "/media/hdd/Videos/MashaEtMichka/Сompilation_3_(20_minutes)_Longue_duree_dessins_animés_pour_bébé.mp4",
+        "type": "Video",
+        "duration": "20:07"
+    },
+    {
+        "age": 3,
+        "videoId": "playlist/MashaEtMichka/Сompilation_4_(20_minutes)_Dessins_animés_en_Français_2016!",
+        "file": "/media/hdd/Videos/MashaEtMichka/Сompilation_4_(20_minutes)_Dessins_animés_en_Français_2016!.mp4",
+        "type": "Video",
+        "duration": "20:58",
+        "seen": false,
+        "title": "Сompilation 4 (20 minutes) Dessins animés en Français 2016!",
+        "image": "images/small-Сompilation_4_(20_minutes)_Dessins_animés_en_Français_2016!.jpg"
+    },
+    {
+        "videoId": "playlist/MashaEtMichka/Сompilation_5_(20_minutes)_Dessins_animés_en_Français_2016!",
+        "age": 3,
+        "duration": "20:37",
+        "type": "Video",
+        "file": "/media/hdd/Videos/MashaEtMichka/Сompilation_5_(20_minutes)_Dessins_animés_en_Français_2016!.mp4",
+        "title": "Сompilation 5 (20 minutes) Dessins animés en Français 2016!",
+        "seen": true,
+        "image": "images/small-Сompilation_5_(20_minutes)_Dessins_animés_en_Français_2016!.jpg"
+    },
+    {
+        "image": "images/small-Сompilation_6_(20_minutes)_Dessins_animés_en_Français_2016!.jpg",
+        "seen": false,
+        "title": "Сompilation 6 (20 minutes) Dessins animés en Français 2016!",
+        "file": "/media/hdd/Videos/MashaEtMichka/Сompilation_6_(20_minutes)_Dessins_animés_en_Français_2016!.mp4",
+        "type": "Video",
+        "duration": "19:25",
+        "age": 3,
+        "videoId": "playlist/MashaEtMichka/Сompilation_6_(20_minutes)_Dessins_animés_en_Français_2016!"
+    },
+    {
+        "videoId": "playlist/MashaEtMichka/2_-_Masha_et_Michka_-_Une_grande_collection_de_dessins_animés_(Partie_)_60_min_pour_enfants_en_Français",
+        "age": 18,
+        "type": "Video",
+        "duration": "57:28",
+        "file": "/media/hdd/Videos/MashaEtMichka/2_-_Masha_et_Michka_-_Une_grande_collection_de_dessins_animés_(Partie_)_60_min_pour_enfants_en_Français.mp4",
+        "title": "2 - Masha et Michka - Une grande collection de dessins animés (Partie ) 60 min pour enfants en Français",
+        "seen": false,
+        "image": "images/small-2_-_Masha_et_Michka_-_Une_grande_collection_de_dessins_animés_(Partie_)_60_min_pour_enfants_en_Français.jpg"
+    },
+    {
+        "duration": "0:44",
+        "type": "Video",
+        "file": "/media/hdd/Videos/MashaEtMichka/Masha_et_Michka_-_Pas_De_Noël_Sans_Amis_(Bande_annonce).mp4",
+        "videoId": "playlist/MashaEtMichka/Masha_et_Michka_-_Pas_De_Noël_Sans_Amis_(Bande_annonce)",
+        "age": 18,
+        "image": "images/small-Masha_et_Michka_-_Pas_De_Noël_Sans_Amis_(Bande_annonce).jpg",
+        "title": "Masha et Michka - Pas De Noël Sans Amis (Bande annonce)",
+        "seen": false
+    },
+    {
+        "title": "21 - Masha et Michka - Pas De Noël Sans Amis (Épisode )",
+        "seen": false,
+        "image": "images/small-21_-_Masha_et_Michka_-_Pas_De_Noël_Sans_Amis_(Épisode_).jpg",
+        "age": 18,
+        "videoId": "playlist/MashaEtMichka/21_-_Masha_et_Michka_-_Pas_De_Noël_Sans_Amis_(Épisode_)",
+        "file": "/media/hdd/Videos/MashaEtMichka/21_-_Masha_et_Michka_-_Pas_De_Noël_Sans_Amis_(Épisode_).mp4",
+        "type": "Video",
+        "duration": "7:14"
+    },
+    {
+        "image": "images/small-1_-_Les_Contes_de_Masha_-_Le_Loup_et_les_Sept_Chevreaux_(Épisode_).jpg",
+        "title": "1 - Les Contes de Masha - Le Loup et les Sept Chevreaux (Épisode )",
+        "seen": false,
+        "file": "/media/hdd/Videos/MashaEtMichka/1_-_Les_Contes_de_Masha_-_Le_Loup_et_les_Sept_Chevreaux_(Épisode_).mp4",
+        "type": "Video",
+        "duration": "7:38",
+        "age": 18,
+        "videoId": "playlist/MashaEtMichka/1_-_Les_Contes_de_Masha_-_Le_Loup_et_les_Sept_Chevreaux_(Épisode_)"
+    },
+    {
+        "image": "images/small-Masha_et_Michka_-_La_Leçon_De_Piano_(Bande_annonce).jpg",
+        "seen": false,
+        "title": "Masha et Michka - La Leçon De Piano (Bande annonce)",
+        "duration": "0:46",
+        "type": "Video",
+        "file": "/media/hdd/Videos/MashaEtMichka/Masha_et_Michka_-_La_Leçon_De_Piano_(Bande_annonce).mp4",
+        "videoId": "playlist/MashaEtMichka/Masha_et_Michka_-_La_Leçon_De_Piano_(Bande_annonce)",
+        "age": 18
+    },
+    {
+        "duration": "7:14",
+        "type": "Video",
+        "file": "/media/hdd/Videos/MashaEtMichka/19_-_Masha_et_Michka_-_La_Leçon_De_Piano_(Épisode_).mp4",
+        "videoId": "playlist/MashaEtMichka/19_-_Masha_et_Michka_-_La_Leçon_De_Piano_(Épisode_)",
+        "age": 18,
+        "image": "images/small-19_-_Masha_et_Michka_-_La_Leçon_De_Piano_(Épisode_).jpg",
+        "seen": false,
+        "title": "19 - Masha et Michka - La Leçon De Piano (Épisode )"
+    },
+    {
+        "videoId": "playlist/MashaEtMichka/Masha_et_Michka_-_La_Leçon_De_Piano_(Tu_sais_jouer_du_piano)",
+        "age": 18,
+        "type": "Video",
+        "duration": "0:40",
+        "file": "/media/hdd/Videos/MashaEtMichka/Masha_et_Michka_-_La_Leçon_De_Piano_(Tu_sais_jouer_du_piano).mp4",
+        "title": "Masha et Michka - La Leçon De Piano (Tu sais jouer du piano)",
+        "seen": false,
+        "image": "images/small-Masha_et_Michka_-_La_Leçon_De_Piano_(Tu_sais_jouer_du_piano).jpg"
+    },
+    {
+        "videoId": "playlist/MashaEtMichka/Masha_et_Michka_-_La_Leçon_De_Piano_(L_Orchestre_De_Masha)",
+        "age": 18,
+        "type": "Video",
+        "duration": "1:08",
+        "file": "/media/hdd/Videos/MashaEtMichka/Masha_et_Michka_-_La_Leçon_De_Piano_(L_Orchestre_De_Masha).mp4",
+        "seen": false,
+        "title": "Masha et Michka - La Leçon De Piano (L_Orchestre De Masha)",
+        "image": "images/small-Masha_et_Michka_-_La_Leçon_De_Piano_(L_Orchestre_De_Masha).jpg"
+    },
+    {
+        "file": "/media/hdd/Videos/MashaEtMichka/Masha_et_Michka_-_La_Leçon_De_Piano_(Le_plus_important_c_est_de_faire_une_belle_révérence).mp4",
+        "type": "Video",
+        "duration": "0:52",
+        "age": 18,
+        "videoId": "playlist/MashaEtMichka/Masha_et_Michka_-_La_Leçon_De_Piano_(Le_plus_important_c_est_de_faire_une_belle_révérence)",
+        "image": "images/small-Masha_et_Michka_-_La_Leçon_De_Piano_(Le_plus_important_c_est_de_faire_une_belle_révérence).jpg",
+        "seen": false,
+        "title": "Masha et Michka - La Leçon De Piano (Le plus important c_est de faire une belle révérence)"
+    },
+    {
+        "seen": false,
+        "title": "2 - Les Contes de Masha - Les Oies Sauvages (Épisode )",
+        "image": "images/small-2_-_Les_Contes_de_Masha_-_Les_Oies_Sauvages_(Épisode_).jpg",
+        "videoId": "playlist/MashaEtMichka/2_-_Les_Contes_de_Masha_-_Les_Oies_Sauvages_(Épisode_)",
+        "age": 18,
+        "duration": "5:54",
+        "type": "Video",
+        "file": "/media/hdd/Videos/MashaEtMichka/2_-_Les_Contes_de_Masha_-_Les_Oies_Sauvages_(Épisode_).mp4"
+    }
+]

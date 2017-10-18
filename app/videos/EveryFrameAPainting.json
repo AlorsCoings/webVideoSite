@@ -1,0 +1,272 @@
+[
+    {
+        "file": "/media/hdd/Videos/EveryFrameAPainting/A_Brief_Look_at_Texting_and_the_Internet_in_Film.mp4",
+        "age": 18,
+        "type": "Video",
+        "title": "A Brief Look at Texting and the Internet in Film",
+        "seen": true,
+        "duration": "5:00",
+        "image": "images/small-A_Brief_Look_at_Texting_and_the_Internet_in_Film.jpg",
+        "videoId": "playlist/EveryFrameAPainting/A_Brief_Look_at_Texting_and_the_Internet_in_Film"
+    },
+    {
+        "file": "/media/hdd/Videos/EveryFrameAPainting/Akira_Kurosawa_-_Composing_Movement.mp4",
+        "age": 18,
+        "type": "Video",
+        "duration": "8:24",
+        "seen": false,
+        "title": "Akira Kurosawa - Composing Movement",
+        "videoId": "playlist/EveryFrameAPainting/Akira_Kurosawa_-_Composing_Movement",
+        "image": "images/small-Akira_Kurosawa_-_Composing_Movement.jpg"
+    },
+    {
+        "type": "Video",
+        "age": 18,
+        "file": "/media/hdd/Videos/EveryFrameAPainting/Buster_Keaton_-_The_Art_of_the_Gag.mp4",
+        "image": "images/small-Buster_Keaton_-_The_Art_of_the_Gag.jpg",
+        "videoId": "playlist/EveryFrameAPainting/Buster_Keaton_-_The_Art_of_the_Gag",
+        "duration": "8:34",
+        "title": "Buster Keaton - The Art of the Gag",
+        "seen": true
+    },
+    {
+        "seen": false,
+        "title": "Chuck Jones - The Evolution of an Artist",
+        "duration": "8:53",
+        "videoId": "playlist/EveryFrameAPainting/Chuck_Jones_-_The_Evolution_of_an_Artist",
+        "image": "images/small-Chuck_Jones_-_The_Evolution_of_an_Artist.jpg",
+        "file": "/media/hdd/Videos/EveryFrameAPainting/Chuck_Jones_-_The_Evolution_of_an_Artist.mp4",
+        "age": 18,
+        "type": "Video"
+    },
+    {
+        "duration": "7:28",
+        "seen": false,
+        "title": "David Fincher - And the Other Way is Wrong",
+        "videoId": "playlist/EveryFrameAPainting/David_Fincher_-_And_the_Other_Way_is_Wrong",
+        "image": "images/small-David_Fincher_-_And_the_Other_Way_is_Wrong.jpg",
+        "file": "/media/hdd/Videos/EveryFrameAPainting/David_Fincher_-_And_the_Other_Way_is_Wrong.mp4",
+        "age": 18,
+        "type": "Video"
+    },
+    {
+        "image": "images/small-Drive_(2011)_-_The_Quadrant_System.jpg",
+        "videoId": "playlist/EveryFrameAPainting/Drive_(2011)_-_The_Quadrant_System",
+        "title": "Drive (2011) - The Quadrant System",
+        "seen": false,
+        "duration": "3:33",
+        "type": "Video",
+        "age": 18,
+        "file": "/media/hdd/Videos/EveryFrameAPainting/Drive_(2011)_-_The_Quadrant_System.mp4"
+    },
+    {
+        "age": 18,
+        "file": "/media/hdd/Videos/EveryFrameAPainting/Edgar_Wright_-_How_to_Do_Visual_Comedy.mp4",
+        "type": "Video",
+        "duration": "7:59",
+        "title": "Edgar Wright - How to Do Visual Comedy",
+        "seen": false,
+        "image": "images/small-Edgar_Wright_-_How_to_Do_Visual_Comedy.jpg",
+        "videoId": "playlist/EveryFrameAPainting/Edgar_Wright_-_How_to_Do_Visual_Comedy"
+    },
+    {
+        "file": "/media/hdd/Videos/EveryFrameAPainting/F_for_Fake_(1973)_-_How_to_Structure_a_Video_Essay.mp4",
+        "age": 18,
+        "type": "Video",
+        "seen": false,
+        "title": "F for Fake (1973) - How to Structure a Video Essay",
+        "duration": "4:31",
+        "videoId": "playlist/EveryFrameAPainting/F_for_Fake_(1973)_-_How_to_Structure_a_Video_Essay",
+        "image": "images/small-F_for_Fake_(1973)_-_How_to_Structure_a_Video_Essay.jpg"
+    },
+    {
+        "file": "/media/hdd/Videos/EveryFrameAPainting/Hollywood_Scores_and_Soundtracks_-_What_Do_They_Sound_Like_Do_They_Sound_Like_Things_Let's_Find_Out.mp4",
+        "age": 18,
+        "type": "Video",
+        "duration": "8:40",
+        "title": "Hollywood Scores and Soundtracks - What Do They Sound Like Do They Sound Like Things Let's Find Out",
+        "seen": false,
+        "image": "images/small-Hollywood_Scores_and_Soundtracks_-_What_Do_They_Sound_Like_Do_They_Sound_Like_Things_Let's_Find_Out.jpg",
+        "videoId": "playlist/EveryFrameAPainting/Hollywood_Scores_and_Soundtracks_-_What_Do_They_Sound_Like_Do_They_Sound_Like_Things_Let's_Find_Out"
+    },
+    {
+        "age": 18,
+        "file": "/media/hdd/Videos/EveryFrameAPainting/How_Does_an_Editor_Think_and_Feel.mp4",
+        "type": "Video",
+        "duration": "9:24",
+        "title": "How Does an Editor Think and Feel",
+        "seen": false,
+        "image": "images/small-How_Does_an_Editor_Think_and_Feel.jpg",
+        "videoId": "playlist/EveryFrameAPainting/How_Does_an_Editor_Think_and_Feel"
+    },
+    {
+        "type": "Video",
+        "age": 18,
+        "file": "/media/hdd/Videos/EveryFrameAPainting/In_Praise_of_Chairs.mp4",
+        "videoId": "playlist/EveryFrameAPainting/In_Praise_of_Chairs",
+        "image": "images/small-In_Praise_of_Chairs.jpg",
+        "duration": "5:18",
+        "seen": false,
+        "title": "In Praise of Chairs"
+    },
+    {
+        "type": "Video",
+        "file": "/media/hdd/Videos/EveryFrameAPainting/Jackie_Chan_-_How_to_Do_Action_Comedy.mp4",
+        "age": 18,
+        "videoId": "playlist/EveryFrameAPainting/Jackie_Chan_-_How_to_Do_Action_Comedy",
+        "image": "images/small-Jackie_Chan_-_How_to_Do_Action_Comedy.jpg",
+        "seen": false,
+        "title": "Jackie Chan - How to Do Action Comedy",
+        "duration": "9:03"
+    },
+    {
+        "age": 18,
+        "file": "/media/hdd/Videos/EveryFrameAPainting/Lynne_Ramsay_-_The_Poetry_of_Details.mp4",
+        "type": "Video",
+        "seen": false,
+        "title": "Lynne Ramsay - The Poetry of Details",
+        "duration": "7:37",
+        "videoId": "playlist/EveryFrameAPainting/Lynne_Ramsay_-_The_Poetry_of_Details",
+        "image": "images/small-Lynne_Ramsay_-_The_Poetry_of_Details.jpg"
+    },
+    {
+        "age": 18,
+        "file": "/media/hdd/Videos/EveryFrameAPainting/Martin_Scorsese_-_The_Art_of_Silence.mp4",
+        "type": "Video",
+        "title": "Martin Scorsese - The Art of Silence",
+        "seen": false,
+        "duration": "6:08",
+        "image": "images/small-Martin_Scorsese_-_The_Art_of_Silence.jpg",
+        "videoId": "playlist/EveryFrameAPainting/Martin_Scorsese_-_The_Art_of_Silence"
+    },
+    {
+        "image": "images/small-Memories_of_Murder_(2003)_-_Ensemble_Staging.jpg",
+        "videoId": "playlist/EveryFrameAPainting/Memories_of_Murder_(2003)_-_Ensemble_Staging",
+        "duration": "6:46",
+        "title": "Memories of Murder (2003) - Ensemble Staging",
+        "seen": false,
+        "type": "Video",
+        "file": "/media/hdd/Videos/EveryFrameAPainting/Memories_of_Murder_(2003)_-_Ensemble_Staging.mp4",
+        "age": 18
+    },
+    {
+        "videoId": "playlist/EveryFrameAPainting/Michael_Bay_-_What_is_Bayhem",
+        "image": "images/small-Michael_Bay_-_What_is_Bayhem.jpg",
+        "seen": false,
+        "title": "Michael Bay - What is Bayhem",
+        "duration": "8:41",
+        "type": "Video",
+        "file": "/media/hdd/Videos/EveryFrameAPainting/Michael_Bay_-_What_is_Bayhem.mp4",
+        "age": 18
+    },
+    {
+        "duration": "4:28",
+        "seen": false,
+        "title": "Mother (2009) - The Telephoto Profile Shot",
+        "videoId": "playlist/EveryFrameAPainting/Mother_(2009)_-_The_Telephoto_Profile_Shot",
+        "image": "images/small-Mother_(2009)_-_The_Telephoto_Profile_Shot.jpg",
+        "file": "/media/hdd/Videos/EveryFrameAPainting/Mother_(2009)_-_The_Telephoto_Profile_Shot.mp4",
+        "age": 18,
+        "type": "Video"
+    },
+    {
+        "image": "images/small-Robin_Williams_-_In_Motion.jpg",
+        "videoId": "playlist/EveryFrameAPainting/Robin_Williams_-_In_Motion",
+        "duration": "6:08",
+        "title": "Robin Williams - In Motion",
+        "seen": false,
+        "type": "Video",
+        "file": "/media/hdd/Videos/EveryFrameAPainting/Robin_Williams_-_In_Motion.mp4",
+        "age": 18
+    },
+    {
+        "seen": false,
+        "title": "Satoshi Kon - Editing Space and Time",
+        "duration": "7:36",
+        "videoId": "playlist/EveryFrameAPainting/Satoshi_Kon_-_Editing_Space_and_Time",
+        "image": "images/small-Satoshi_Kon_-_Editing_Space_and_Time.jpg",
+        "file": "/media/hdd/Videos/EveryFrameAPainting/Satoshi_Kon_-_Editing_Space_and_Time.mp4",
+        "age": 18,
+        "type": "Video"
+    },
+    {
+        "age": 18,
+        "file": "/media/hdd/Videos/EveryFrameAPainting/Snowpiercer_-_Left_or_Right.mp4",
+        "type": "Video",
+        "seen": false,
+        "title": "Snowpiercer - Left or Right",
+        "duration": "2:51",
+        "videoId": "playlist/EveryFrameAPainting/Snowpiercer_-_Left_or_Right",
+        "image": "images/small-Snowpiercer_-_Left_or_Right.jpg"
+    },
+    {
+        "age": 18,
+        "file": "/media/hdd/Videos/EveryFrameAPainting/The_Bad_Sleep_Well_(1960)_-_The_Geometry_of_a_Scene.mp4",
+        "type": "Video",
+        "duration": "3:10",
+        "title": "The Bad Sleep Well (1960) - The Geometry of a Scene",
+        "seen": false,
+        "image": "images/small-The_Bad_Sleep_Well_(1960)_-_The_Geometry_of_a_Scene.jpg",
+        "videoId": "playlist/EveryFrameAPainting/The_Bad_Sleep_Well_(1960)_-_The_Geometry_of_a_Scene"
+    },
+    {
+        "type": "Video",
+        "file": "/media/hdd/Videos/EveryFrameAPainting/The_Imposter_(2012)_-_Looking_into_the_Lens.mp4",
+        "age": 18,
+        "videoId": "playlist/EveryFrameAPainting/The_Imposter_(2012)_-_Looking_into_the_Lens",
+        "image": "images/small-The_Imposter_(2012)_-_Looking_into_the_Lens.jpg",
+        "duration": "5:05",
+        "seen": false,
+        "title": "The Imposter (2012) - Looking into the Lens"
+    },
+    {
+        "type": "Video",
+        "file": "/media/hdd/Videos/EveryFrameAPainting/The_Marvel_Symphonic_Universe.mp4",
+        "age": 18,
+        "videoId": "playlist/EveryFrameAPainting/The_Marvel_Symphonic_Universe",
+        "image": "images/small-The_Marvel_Symphonic_Universe.jpg",
+        "seen": false,
+        "title": "The Marvel Symphonic Universe",
+        "duration": "13:34"
+    },
+    {
+        "duration": "2:58",
+        "seen": false,
+        "title": "The Silence of the Lambs - Who Wins the Scene",
+        "videoId": "playlist/EveryFrameAPainting/The_Silence_of_the_Lambs_-_Who_Wins_the_Scene",
+        "image": "images/small-The_Silence_of_the_Lambs_-_Who_Wins_the_Scene.jpg",
+        "file": "/media/hdd/Videos/EveryFrameAPainting/The_Silence_of_the_Lambs_-_Who_Wins_the_Scene.mp4",
+        "age": 18,
+        "type": "Video"
+    },
+    {
+        "type": "Video",
+        "file": "/media/hdd/Videos/EveryFrameAPainting/The_Spielberg_Oner.mp4",
+        "age": 18,
+        "image": "images/small-The_Spielberg_Oner.jpg",
+        "videoId": "playlist/EveryFrameAPainting/The_Spielberg_Oner",
+        "title": "The Spielberg Oner",
+        "seen": false,
+        "duration": "7:58"
+    },
+    {
+        "duration": "9:05",
+        "title": "Vancouver Never Plays Itself",
+        "seen": false,
+        "image": "images/small-Vancouver_Never_Plays_Itself.jpg",
+        "videoId": "playlist/EveryFrameAPainting/Vancouver_Never_Plays_Itself",
+        "file": "/media/hdd/Videos/EveryFrameAPainting/Vancouver_Never_Plays_Itself.mp4",
+        "age": 18,
+        "type": "Video"
+    },
+    {
+        "age": 18,
+        "file": "/media/hdd/Videos/EveryFrameAPainting/Wolf_Children_(2012)_-_The_Lateral_Tracking_Shot.mp4",
+        "type": "Video",
+        "title": "Wolf Children (2012) - The Lateral Tracking Shot",
+        "seen": false,
+        "duration": "6:28",
+        "image": "images/small-Wolf_Children_(2012)_-_The_Lateral_Tracking_Shot.jpg",
+        "videoId": "playlist/EveryFrameAPainting/Wolf_Children_(2012)_-_The_Lateral_Tracking_Shot"
+    }
+]

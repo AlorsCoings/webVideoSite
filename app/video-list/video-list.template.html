@@ -1,0 +1,36 @@
+<div class="container-fluid videos-container" id="top">
+    <div class="row search-box">
+        <form class="form-inline text-center">
+            <button ng-click="$ctrl.returnHome()" ng-show="!$ctrl.showHome">
+                <span class="glyphicon glyphicon-home"></span>
+            </button>
+            <button ng-show="$ctrl.isPlaylistVideo" ng-click="$ctrl.playAll()" type="button" class="btn btn-default">
+                Play all
+            </button>
+            <label><p>Search<span class="glyphicon glyphicon-search"></span></p></label>
+            <input ng-model="$ctrl.query" />
+            <select ng-model="$ctrl.age" ng-change="$ctrl.ageChange($ctrl.age)">
+                <option value="baby">Bébé</option>
+                <option value="child">Enfant</option>
+                <option value="greatChild">Grand enfant</option>
+                <option value="adult">Adulte</option>
+                <option value="all">Tous</option>
+            </select>
+        </form>
+    </div>
+    <div class="row videos-list">
+        <ul class="videos">
+            <p class="text-center">
+                <button ng-click="$ctrl.returnHome()" ng-show="$ctrl.showHome" class="button-home text-center">
+                    <span class="glyphicon glyphicon-home"></span>
+                </button>
+            </p>
+            <video-detail ng-repeat="video in $ctrl.videos |
+                                     filter: checkDescription($ctrl.query) |
+                                     filter: checkAge('age') |
+                                     orderBy: ['seen', $ctrl.orderBy] as filteredVideos" video="video" on-glyphicon-change="$ctrl.glyphiconChange(video)" on-already-seen="$ctrl.alreadySeen(video)" on-play-video="$ctrl.playVideo(video)" on-update-video="$ctrl.updateVideo(video)" class="video-list-item">
+            </video-detail>
+        </ul>
+    </div>
+</div>
+<control-panel></control-panel>

@@ -1,0 +1,38 @@
+.videoDetailContainer {
+    margin-top: 10px;
+    padding: 0;
+    /* height: 190px; */
+}
+
+.clicked {
+    background-color: #DDDDDD;
+}
+
+.figure {
+    margin: 0;
+    width: 100%;
+}
+
+.video-image {
+    width: 150px;
+}
+
+.titleseen {
+    color: #AA3939;
+}
+
+.duration-div {
+   col-xs-6
+}
+.duration {
+   margin: 5px 0;
+}
+
+@media only screen and (min-width: 400px) {
+    .videoDetailContainer {
+        height: 350px;
+    }
+    .video-image {
+        width: 300px;
+    }
+}

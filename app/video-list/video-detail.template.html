@@ -1,0 +1,32 @@
+<li>
+    <div set-height class="videoDetailContainer col-xs-6 col-md-4 col-lg-3" ng-class="{clicked: $ctrl.clicked}">
+        <figure class="text-center figure">
+            <a ng-click="$ctrl.playVideo()" ng-href="{{$ctrl.hrefLink}}">
+                <img image-on-load class="video-image figure-img img-fluid rounded" ng-src="{{$ctrl.video.image}}" alt="{{$ctrl.video.title}}">
+            </a>
+            <figcaption class="figure-caption text-xs-center">
+                <a class="text-center" ng-click="$ctrl.playVideo()" ng-href="{{$ctrl.hrefLink}}">
+                    <p ng-class="{titleseen: $ctrl.video.seen}">{{$ctrl.video.title}}</p>
+                </a>
+                {{$ctrl.video.numberVideosString}}
+            </figcaption>
+        </figure>
+        <div class="row">
+            <div ng-show="!$ctrl.hasFile()" class="col-xs-12">
+                <p class="text-center duration">
+
+                </p>
+                </div>
+            <div ng-class="$ctrl.durationClass">
+                <p class="text-center duration">
+                    {{$ctrl.video.duration}}
+                </p>
+            </div>
+            <div ng-show="$ctrl.hasFile() && $ctrl.video.type == 'Video'" class="col-xs-6 text-center">
+                <button ng-click="$ctrl.alreadySeen()" type="button" class="text-center btn btn-default">
+                <span class="glyphicon" ng-class="$ctrl.glyphiconChange()"></span>
+            </button>
+            </div>
+        </div>
+    </div>
+</li>

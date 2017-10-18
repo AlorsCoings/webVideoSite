@@ -1,0 +1,299 @@
+[
+    {
+        "duration": "00:19",
+        "title": "01 L'imagier de la couleur",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/01 L'imagier de la couleur.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/01_L'imagier_de_la_couleur",
+        "age": 1
+    },
+    {
+        "duration": "00:19",
+        "title": "02 Après la nuit",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/02 Après la nuit.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/02_Après_la_nuit",
+        "age": 1
+    },
+    {
+        "duration": "2:13",
+        "title": "03 Les oiseaux arc-en-ciel",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/03 Les oiseaux arc-en-ciel.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/03_Les_oiseaux_arc-en-ciel",
+        "age": 1
+    },
+    {
+        "duration": "00:08",
+        "title": "04 1ère partie Découvre les couleur",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/04 1ère partie Découvre les couleur.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/04_1ère_partie_Découvre_les_couleur",
+        "age": 1
+    },
+    {
+        "duration": "00:25",
+        "title": "05 Jaune",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/05 Jaune.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/05_Jaune",
+        "age": 1
+    },
+    {
+        "duration": "00:29",
+        "title": "06 Bleu cyan",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/06 Bleu cyan.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/06_Bleu_cyan",
+        "age": 1
+    },
+    {
+        "duration": "00:32",
+        "title": "07 Magenta",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/07 Magenta.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/07_Magenta",
+        "age": 1
+    },
+    {
+        "duration": "2:33",
+        "title": "08 L'usine à fabriquer les couleurs",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/08 L'usine à fabriquer les couleurs.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/08_L'usine_à_fabriquer_les_couleurs",
+        "age": 1
+    },
+    {
+        "duration": "00:33",
+        "title": "09 Vert",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/09 Vert.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/09_Vert",
+        "age": 1
+    },
+    {
+        "duration": "00:28",
+        "title": "10 Rouge",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/10 Rouge.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/10_Rouge",
+        "age": 1
+    },
+    {
+        "duration": "00:27",
+        "title": "11 Violet",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/11 Violet.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/11_Violet",
+        "age": 1
+    },
+    {
+        "duration": "00:31",
+        "title": "12 Orange",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/12 Orange.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/12_Orange",
+        "age": 1
+    },
+    {
+        "duration": "1:30",
+        "title": "13 L'usine à fabriquer les couleurs",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/13 L'usine à fabriquer les couleurs.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/13_L'usine_à_fabriquer_les_couleurs",
+        "age": 1
+    },
+    {
+        "duration": "00:30",
+        "title": "14 Blanc",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/14 Blanc.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/14_Blanc",
+        "age": 1
+    },
+    {
+        "duration": "00:39",
+        "title": "15 Noir",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/15 Noir.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/15_Noir",
+        "age": 1
+    },
+    {
+        "duration": "00:36",
+        "title": "16 Gris",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/16 Gris.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/16_Gris",
+        "age": 1
+    },
+    {
+        "duration": "00:25",
+        "title": "17 Rose",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/17 Rose.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/17_Rose",
+        "age": 1
+    },
+    {
+        "duration": "00:32",
+        "title": "18 Marron",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/18 Marron.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/18_Marron",
+        "age": 1
+    },
+    {
+        "duration": "00:28",
+        "title": "19 Jeu mélange les couleurs primaires",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/19 Jeu mélange les couleurs primaires.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/19_Jeu_mélange_les_couleurs_primaires",
+        "age": 1
+    },
+    {
+        "duration": "1:07",
+        "title": "20 Jeu mélange toutes les couleurs",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/20 Jeu mélange toutes les couleurs.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/20_Jeu_mélange_toutes_les_couleurs",
+        "age": 1
+    },
+    {
+        "duration": "00:19",
+        "title": "21 Jeu Joue avec les couleurs",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/21 Jeu Joue avec les couleurs.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/21_Jeu_Joue_avec_les_couleurs",
+        "age": 1
+    },
+    {
+        "duration": "00:23",
+        "title": "22 2ème partie les nuances",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/22 2ème partie les nuances.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/22_2ème_partie_les_nuances",
+        "age": 1
+    },
+    {
+        "duration": "1:54",
+        "title": "23 Couleurs sombres et clairs",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/23 Couleurs sombres et clairs.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/23_Couleurs_sombres_et_clairs",
+        "age": 1
+    },
+    {
+        "duration": "00:28",
+        "title": "24 Jeu couleurs sombres et clairs",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/24 Jeu couleurs sombres et clairs.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/24_Jeu_couleurs_sombres_et_clairs",
+        "age": 1
+    },
+    {
+        "duration": "1:59",
+        "title": "25 Couleurs saturées et ternes",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/25 Couleurs saturées et ternes.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/25_Couleurs_saturées_et_ternes",
+        "age": 1
+    },
+    {
+        "duration": "1:13",
+        "title": "26 Jeu couleurs saturées et ternes",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/26 Jeu couleurs saturées et ternes.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/26_Jeu_couleurs_saturées_et_ternes",
+        "age": 1
+    },
+    {
+        "duration": "1:48",
+        "title": "27 Couleurs chaudes et froides",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/27 Couleurs chaudes et froides.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/27_Couleurs_chaudes_et_froides",
+        "age": 1
+    },
+    {
+        "duration": "00:46",
+        "title": "28 Jeu couleurs chaudes et froides",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/28 Jeu couleurs chaudes et froides.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/28_Jeu_couleurs_chaudes_et_froides",
+        "age": 1
+    },
+    {
+        "duration": "1:02",
+        "title": "29 Couleurs complémentaires",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/29 Couleurs complémentaires.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/29_Couleurs_complémentaires",
+        "age": 1
+    },
+    {
+        "duration": "00:41",
+        "title": "30 Jeu couleurs complémentaires",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/30 Jeu couleurs complémentaires.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/30_Jeu_couleurs_complémentaires",
+        "age": 1
+    },
+    {
+        "duration": "1:12",
+        "title": "31 La ronde des couleurs",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/31 La ronde des couleurs.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/31_La_ronde_des_couleurs",
+        "age": 1
+    },
+    {
+        "duration": "1:29",
+        "title": "32 Jeu aide Lapin",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/32 Jeu aide Lapin.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/32_Jeu_aide_Lapin",
+        "age": 1
+    },
+    {
+        "duration": "1:29",
+        "title": "33 Les oiseaux arc-en-ciel",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/L'imagier_de_la_couleur/33 Les oiseaux arc-en-ciel.mp3",
+        "image": "images/small-L'imagier_de_la_couleur.jpg",
+        "videoId": "playlist/L'imagier_de_la_couleur/33_Les_oiseaux_arc-en-ciel",
+        "age": 1
+    }
+]

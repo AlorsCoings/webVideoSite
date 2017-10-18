@@ -1,0 +1,162 @@
+[
+    {
+        "file": "/media/hdd/Videos/Usul/La_pensée_68_(sociologie_et_culture_de_l'excuse).mp4",
+        "seen": false,
+        "type": "Video",
+        "title": "La pensée 68 (sociologie et culture de l'excuse)",
+        "duration": "35:29",
+        "videoId": "playlist/Usul/La_pensée_68_(sociologie_et_culture_de_l'excuse)",
+        "age": 18,
+        "image": "images/small-La_pensée_68_(sociologie_et_culture_de_l'excuse).jpg"
+    },
+    {
+        "image": "images/small-La_Polémiste_(Elisabeth_Levy).jpg",
+        "videoId": "playlist/Usul/La_Polémiste_(Elisabeth_Levy)",
+        "age": 18,
+        "duration": "34:08",
+        "title": "La Polémiste (Elisabeth Levy)",
+        "file": "/media/hdd/Videos/Usul/La_Polémiste_(Elisabeth_Levy).mp4",
+        "seen": false,
+        "type": "Video"
+    },
+    {
+        "age": 18,
+        "videoId": "playlist/Usul/La_télévision..._Pourquoi_pas_[CML]",
+        "image": "images/small-La_télévision..._Pourquoi_pas_[CML].jpg",
+        "type": "Video",
+        "seen": false,
+        "file": "/media/hdd/Videos/Usul/La_télévision..._Pourquoi_pas_[CML].mp4",
+        "title": "La télévision... Pourquoi pas [CML]",
+        "duration": "8:24"
+    },
+    {
+        "duration": "32:37",
+        "title": "le Citoyen -  commentaire audio",
+        "type": "Video",
+        "file": "/media/hdd/Videos/Usul/le_Citoyen_-__commentaire_audio.mp4",
+        "seen": false,
+        "image": "images/small-le_Citoyen_-__commentaire_audio.jpg",
+        "age": 18,
+        "videoId": "playlist/Usul/le_Citoyen_-__commentaire_audio"
+    },
+    {
+        "image": "images/small-Le_Citoyen_(Etienne_Chouard).jpg",
+        "age": 18,
+        "videoId": "playlist/Usul/Le_Citoyen_(Etienne_Chouard)",
+        "title": "Le Citoyen (Etienne Chouard)",
+        "duration": "30:19",
+        "type": "Video",
+        "seen": true,
+        "file": "/media/hdd/Videos/Usul/Le_Citoyen_(Etienne_Chouard).mp4"
+    },
+    {
+        "image": "images/small-L'Économiste_(Frédéric_Lordon).jpg",
+        "age": 18,
+        "videoId": "playlist/Usul/L'Économiste_(Frédéric_Lordon)",
+        "duration": "31:05",
+        "title": "L'Économiste (Frédéric Lordon)",
+        "type": "Video",
+        "file": "/media/hdd/Videos/Usul/L'Économiste_(Frédéric_Lordon).mp4",
+        "seen": false
+    },
+    {
+        "seen": false,
+        "file": "/media/hdd/Videos/Usul/Le_Journaliste_(David_Pujadas).mp4",
+        "type": "Video",
+        "title": "Le Journaliste (David Pujadas)",
+        "duration": "51:51",
+        "videoId": "playlist/Usul/Le_Journaliste_(David_Pujadas)",
+        "age": 18,
+        "image": "images/small-Le_Journaliste_(David_Pujadas).jpg"
+    },
+    {
+        "seen": false,
+        "file": "/media/hdd/Videos/Usul/Le_Philosophe_(BHL).mp4",
+        "type": "Video",
+        "duration": "20:37",
+        "title": "Le Philosophe (BHL)",
+        "videoId": "playlist/Usul/Le_Philosophe_(BHL)",
+        "age": 18,
+        "image": "images/small-Le_Philosophe_(BHL).jpg"
+    },
+    {
+        "title": "Le révolutionnaire  - commentaire audio",
+        "duration": "33:34",
+        "type": "Video",
+        "seen": false,
+        "file": "/media/hdd/Videos/Usul/Le_révolutionnaire__-_commentaire_audio.mp4",
+        "image": "images/small-Le_révolutionnaire__-_commentaire_audio.jpg",
+        "age": 18,
+        "videoId": "playlist/Usul/Le_révolutionnaire__-_commentaire_audio"
+    },
+    {
+        "type": "Video",
+        "file": "/media/hdd/Videos/Usul/Le_Révolutionnaire_(Olivier_Besancenot).mp4",
+        "seen": false,
+        "duration": "23:15",
+        "title": "Le Révolutionnaire (Olivier Besancenot)",
+        "age": 18,
+        "videoId": "playlist/Usul/Le_Révolutionnaire_(Olivier_Besancenot)",
+        "image": "images/small-Le_Révolutionnaire_(Olivier_Besancenot).jpg"
+    },
+    {
+        "videoId": "playlist/Usul/Le_Salaire_à_Vie_(Bernard_Friot)",
+        "age": 18,
+        "image": "images/small-Le_Salaire_à_Vie_(Bernard_Friot).jpg",
+        "file": "/media/hdd/Videos/Usul/Le_Salaire_à_Vie_(Bernard_Friot).mp4",
+        "seen": false,
+        "type": "Video",
+        "duration": "36:29",
+        "title": "Le Salaire à Vie (Bernard Friot)"
+    },
+    {
+        "age": 18,
+        "videoId": "playlist/Usul/Les_Jeunes_(la_génération_Y)",
+        "image": "images/small-Les_Jeunes_(la_génération_Y).jpg",
+        "type": "Video",
+        "file": "/media/hdd/Videos/Usul/Les_Jeunes_(la_génération_Y).mp4",
+        "seen": true,
+        "title": "Les Jeunes (la génération Y)",
+        "duration": "25:13"
+    },
+    {
+        "age": 18,
+        "videoId": "playlist/Usul/Les_flics_(tout_le_monde_déteste_la_police)",
+        "image": "images/small-Les_flics_(tout_le_monde_déteste_la_police).jpg",
+        "type": "Video",
+        "file": "/media/hdd/Videos/Usul/Les_flics_(tout_le_monde_déteste_la_police).mp4",
+        "seen": false,
+        "duration": "43:35",
+        "title": "Les flics (tout le monde déteste la police)"
+    },
+    {
+        "title": "L'air de la campagne - Fillon, un nouvel espoir",
+        "duration": "5:21",
+        "seen": true,
+        "file": "/media/hdd/Videos/Usul/L'air_de_la_campagne_-_Fillon,_un_nouvel_espoir.mp4",
+        "type": "Video",
+        "image": "images/small-L'air_de_la_campagne_-_Fillon,_un_nouvel_espoir.jpg",
+        "videoId": "playlist/Usul/L'air_de_la_campagne_-_Fillon,_un_nouvel_espoir",
+        "age": 18
+    },
+    {
+        "duration": "5:23",
+        "title": "L'air de la campagne",
+        "type": "Video",
+        "seen": true,
+        "file": "/media/hdd/Videos/Usul/L'air_de_la_campagne.mp4",
+        "image": "images/small-L'air_de_la_campagne.jpg",
+        "age": 18,
+        "videoId": "playlist/Usul/L'air_de_la_campagne"
+    },
+    {
+        "title": "L'air de la campagne - NKM ou le nouvel esprit du capitalisme",
+        "duration": "5:05",
+        "file": "/media/hdd/Videos/Usul/L'air_de_la_campagne_-_NKM_ou_le_nouvel_esprit_du_capitalisme.mp4",
+        "seen": true,
+        "type": "Video",
+        "image": "images/small-L'air_de_la_campagne_-_NKM_ou_le_nouvel_esprit_du_capitalisme.jpg",
+        "videoId": "playlist/Usul/L'air_de_la_campagne_-_NKM_ou_le_nouvel_esprit_du_capitalisme",
+        "age": 18
+    }
+]

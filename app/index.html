@@ -1,0 +1,56 @@
+<!doctype html>
+<html ng-app="videoSiteApp">
+
+<head>
+    <meta charset="utf-8">
+    <title>Videos</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no, maximum-scale=1.0, user-scalable=0">
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/normalize.css">
+    <link rel="stylesheet" href="styles/video-detail.css">
+    <link rel="stylesheet" href="styles/video-list.css">
+    <link rel="stylesheet" href="styles/control-panel.css">
+
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="bower_components/angular-animate/angular-animate.min.js"></script>
+    <script src="bower_components/angular-resource/angular-resource.min.js"></script>
+    <script src="bower_components/angular-route/angular-route.min.js"></script>
+    <script src="bower_components/angular-cookies/angular-cookies.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="core/vendor/spin.min.js"></script>
+    <script src="app.module.js"></script>
+    <script src="app.config.js"></script>
+    <script src="core/core.module.js"></script>
+    <script src="core/loading.directive.js"></script>
+    <script src="core/video/video.module.js"></script>
+    <script src="core/video/video.service.js"></script>
+    <script src="core/user/user.module.js"></script>
+    <script src="core/user/user.service.js"></script>
+    <script src="core/playlist/playlist.module.js"></script>
+    <script src="core/playlist/playlist.service.js"></script>
+    <script src="core/player/player.module.js"></script>
+    <script src="core/player/player.service.js"></script>
+    <script src="core/socket/socket.module.js"></script>
+    <script src="core/socket/socket.service.js"></script>
+    <script src="video-list/video-list.module.js"></script>
+    <script src="video-list/video-detail.component.js"></script>
+    <script src="video-list/set-height.directive.js"></script>
+    <script src="video-list/image-on-load.directive.js"></script>
+    <script src="video-list/video-list.component.js"></script>
+    <script src="control-panel/control-panel.module.js"></script>
+    <script src="control-panel/control-panel.component.js"></script>
+</head>
+
+<body>
+    <!--[if lte IE 8]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <div class="view-container">
+        <div ng-view class="view-frame"></div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,110 @@
+[
+    {
+        "duration": "2:50",
+        "title": "01 The Elephant",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/Comptines_Pour_Chanter_En_Anglais/01_The_Elephant.mp3",
+        "image": "images/small-Comptines_Pour_Chanter_En_Anglais.jpg",
+        "videoId": "playlist/Comptines_Pour_Chanter_En_Anglais/01_The_Elephant",
+        "age": 1
+    },
+    {
+        "duration": "1:08",
+        "title": "02 Head And Shoulders",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/Comptines_Pour_Chanter_En_Anglais/02_Head_And_Shoulders.mp3",
+        "image": "images/small-Comptines_Pour_Chanter_En_Anglais.jpg",
+        "videoId": "playlist/Comptines_Pour_Chanter_En_Anglais/02_Head_And_Shoulders",
+        "age": 1
+    },
+    {
+        "duration": "1:07",
+        "title": "03 I'm A Little Teapot",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/Comptines_Pour_Chanter_En_Anglais/03_I'm_A_Little_Teapot.mp3",
+        "image": "images/small-Comptines_Pour_Chanter_En_Anglais.jpg",
+        "videoId": "playlist/Comptines_Pour_Chanter_En_Anglais/03_I'm_A_Little_Teapot",
+        "age": 1
+    },
+    {
+        "duration": "0:39",
+        "title": "04 Wind The Bobbin Up",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/Comptines_Pour_Chanter_En_Anglais/04_Wind_The_Bobbin_Up.mp3",
+        "image": "images/small-Comptines_Pour_Chanter_En_Anglais.jpg",
+        "videoId": "playlist/Comptines_Pour_Chanter_En_Anglais/04_Wind_The_Bobbin_Up",
+        "age": 1
+    },
+    {
+        "duration": "1:18",
+        "title": "05 Skip To My Lou",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/Comptines_Pour_Chanter_En_Anglais/05_Skip_To_My_Lou.mp3",
+        "image": "images/small-Comptines_Pour_Chanter_En_Anglais.jpg",
+        "videoId": "playlist/Comptines_Pour_Chanter_En_Anglais/05_Skip_To_My_Lou",
+        "age": 1
+    },
+    {
+        "duration": "1:19",
+        "title": "06 Row, Row, Row Your Boat",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/Comptines_Pour_Chanter_En_Anglais/06_Row,_Row,_Row_Your_Boat.mp3",
+        "image": "images/small-Comptines_Pour_Chanter_En_Anglais.jpg",
+        "videoId": "playlist/Comptines_Pour_Chanter_En_Anglais/06_Row,_Row,_Row_Your_Boat",
+        "age": 1
+    },
+    {
+        "duration": "1:19",
+        "title": "07 Out Goes The Rat",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/Comptines_Pour_Chanter_En_Anglais/07_Out_Goes_The_Rat.mp3",
+        "image": "images/small-Comptines_Pour_Chanter_En_Anglais.jpg",
+        "videoId": "playlist/Comptines_Pour_Chanter_En_Anglais/07_Out_Goes_The_Rat",
+        "age": 1
+    },
+    {
+        "duration": "1:12",
+        "title": "08 Do Your Ears Hang Low",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/Comptines_Pour_Chanter_En_Anglais/08_Do_Your_Ears_Hang_Low.mp3",
+        "image": "images/small-Comptines_Pour_Chanter_En_Anglais.jpg",
+        "videoId": "playlist/Comptines_Pour_Chanter_En_Anglais/08_Do_Your_Ears_Hang_Low",
+        "age": 1
+    },
+    {
+        "duration": "0:48",
+        "title": "09 Wee Willie Winkie",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/Comptines_Pour_Chanter_En_Anglais/09_Wee_Willie_Winkie.mp3",
+        "image": "images/small-Comptines_Pour_Chanter_En_Anglais.jpg",
+        "videoId": "playlist/Comptines_Pour_Chanter_En_Anglais/09_Wee_Willie_Winkie",
+        "age": 1
+    },
+    {
+        "duration": "0:53",
+        "title": "10 Alice The Camel",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/Comptines_Pour_Chanter_En_Anglais/10_Alice_The_Camel.mp3",
+        "image": "images/small-Comptines_Pour_Chanter_En_Anglais.jpg",
+        "videoId": "playlist/Comptines_Pour_Chanter_En_Anglais/10_Alice_The_Camel",
+        "age": 1
+    },
+    {
+        "duration": "1:04",
+        "title": "11 Teddy Bear",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/Comptines_Pour_Chanter_En_Anglais/11_Teddy_Bear.mp3",
+        "image": "images/small-Comptines_Pour_Chanter_En_Anglais.jpg",
+        "videoId": "playlist/Comptines_Pour_Chanter_En_Anglais/11_Teddy_Bear",
+        "age": 1
+    },
+    {
+        "duration": "0:54",
+        "title": "12 Jimmy Crack Corn",
+        "type": "Audio",
+        "file": "/media/hdd/Videos/Comptines_Pour_Chanter_En_Anglais/12_Jimmy_Crack_Corn.mp3",
+        "image": "images/small-Comptines_Pour_Chanter_En_Anglais.jpg",
+        "videoId": "playlist/Comptines_Pour_Chanter_En_Anglais/12_Jimmy_Crack_Corn",
+        "age": 1
+    }
+]

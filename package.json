@@ -1,0 +1,46 @@
+{
+  "name": "videos-site",
+  "version": "0.0.1",
+  "description": "A website to interface omxplayer",
+  "author": "Nicolas Gros <gros.nicolas0@gmail.com>",
+  "main": "server.js",
+  "private": true,
+  "devDependencies": {
+    "bower": "^1.7.7",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^0.2.3",
+    "karma-firefox-launcher": "^0.1.7",
+    "karma-jasmine": "^0.3.8",
+    "karma-junit-reporter": "^0.4.1",
+    "protractor": "^3.2.2"
+  },
+  "scripts": {
+    "postinstall": "bower install",
+    "prestart": "npm install",
+    "start": "node server.js",
+    "pretest": "npm install",
+    "test": "karma start karma.conf.js",
+    "test-single-run": "karma start karma.conf.js --single-run",
+    "preupdate-webdriver": "npm install",
+    "update-webdriver": "webdriver-manager update",
+    "preprotractor": "npm run update-webdriver",
+    "protractor": "protractor e2e-tests/protractor.conf.js"
+  },
+  "dependencies": {
+    "angular-cookies": "^1.5.8",
+    "body-parser": "^1.15.2",
+    "child_process": "^1.0.2",
+    "ejs": "^2.5.1",
+    "errorhandler": "^1.4.3",
+    "events": "^1.1.1",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7",
+    "requirejs": "^2.2.0",
+    "serve-favicon": "^2.3.0",
+    "socket.io": "^1.4.8"
+  }
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "seen": true,
+        "image": "images/small-Aliénor_et_Conséquences_(ou_La_Deuxième_Croisade).jpg",
+        "type": "Video",
+        "age": 18,
+        "file": "/media/hdd/Videos/Confessions_D_Histoire/Aliénor_et_Conséquences_(ou_La_Deuxième_Croisade).mp4",
+        "title": "Aliénor et Conséquences (ou La Deuxième Croisade)",
+        "duration": "29:18",
+        "videoId": "playlist/Confessions_D_Histoire/Aliénor_et_Conséquences_(ou_La_Deuxième_Croisade)"
+    },
+    {
+        "title": "D'Alexandrie à Actium",
+        "videoId": "playlist/Confessions_D_Histoire/D'Alexandrie_à_Actium",
+        "duration": "36:07",
+        "type": "Video",
+        "age": 18,
+        "file": "/media/hdd/Videos/Confessions_D_Histoire/D'Alexandrie_à_Actium.mp4",
+        "image": "images/small-D'Alexandrie_à_Actium.jpg",
+        "seen": false
+    },
+    {
+        "file": "/media/hdd/Videos/Confessions_D_Histoire/La_Guerre_des_Gaules.mp4",
+        "type": "Video",
+        "age": 18,
+        "image": "images/small-La_Guerre_des_Gaules.jpg",
+        "videoId": "playlist/Confessions_D_Histoire/La_Guerre_des_Gaules",
+        "duration": "10:10",
+        "title": "La Guerre des Gaules",
+        "seen": true
+    },
+    {
+        "seen": true,
+        "duration": "15:10",
+        "videoId": "playlist/Confessions_D_Histoire/La_Première_Croisade",
+        "title": "La Première Croisade",
+        "image": "images/small-La_Première_Croisade.jpg",
+        "file": "/media/hdd/Videos/Confessions_D_Histoire/La_Première_Croisade.mp4",
+        "type": "Video",
+        "age": 18
+    }
+]

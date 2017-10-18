@@ -1,0 +1,172 @@
+[
+    {
+        "duration": "5:55",
+        "title": "01 - Le roi de la ZAD",
+        "file": "/media/hdd/Videos/C_est_ca_l_histoire/01_-_Le_roi_de_la_ZAD.mp4",
+        "seen": true,
+        "type": "Video",
+        "videoId": "playlist/C_est_ca_l_histoire/01_-_Le_roi_de_la_ZAD",
+        "age": 18,
+        "image": "images/small-01_-_Le_roi_de_la_ZAD.jpg"
+    },
+    {
+        "title": "02 -  Hercules",
+        "duration": "6:29",
+        "videoId": "playlist/C_est_ca_l_histoire/02_-__Hercules",
+        "type": "Video",
+        "image": "images/small-02_-__Hercules.jpg",
+        "age": 18,
+        "file": "/media/hdd/Videos/C_est_ca_l_histoire/02_-__Hercules.mp4",
+        "seen": true
+    },
+    {
+        "seen": false,
+        "file": "/media/hdd/Videos/C_est_ca_l_histoire/03_-_Enter_the_Darknet.mp4",
+        "age": 18,
+        "image": "images/small-03_-_Enter_the_Darknet.jpg",
+        "videoId": "playlist/C_est_ca_l_histoire/03_-_Enter_the_Darknet",
+        "type": "Video",
+        "duration": "3:05",
+        "title": "03 - Enter the Darknet"
+    },
+    {
+        "title": "04 - MC Potter à l'école du micro d'argent",
+        "duration": "2:58",
+        "type": "Video",
+        "videoId": "playlist/C_est_ca_l_histoire/04_-_MC_Potter_à_l'école_du_micro_d'argent",
+        "age": 18,
+        "image": "images/small-04_-_MC_Potter_à_l'école_du_micro_d'argent.jpg",
+        "file": "/media/hdd/Videos/C_est_ca_l_histoire/04_-_MC_Potter_à_l'école_du_micro_d'argent.mp4",
+        "seen": false
+    },
+    {
+        "file": "/media/hdd/Videos/C_est_ca_l_histoire/05_-_L'Émancipée_des_neiges.mp4",
+        "seen": false,
+        "videoId": "playlist/C_est_ca_l_histoire/05_-_L'Émancipée_des_neiges",
+        "type": "Video",
+        "image": "images/small-05_-_L'Émancipée_des_neiges.jpg",
+        "age": 18,
+        "duration": "3:18",
+        "title": "05 - L'Émancipée des neiges"
+    },
+    {
+        "type": "Video",
+        "videoId": "playlist/C_est_ca_l_histoire/06_(cis)_-_La_cis_et_le_trans",
+        "image": "images/small-06_(cis)_-_La_cis_et_le_trans.jpg",
+        "age": 18,
+        "file": "/media/hdd/Videos/C_est_ca_l_histoire/06_(cis)_-_La_cis_et_le_trans.mp4",
+        "seen": false,
+        "title": "06 (cis) - La cis et le trans",
+        "duration": "2:54"
+    },
+    {
+        "age": 18,
+        "image": "images/small-07_-_Le_cercle_des_podcasters_débutants.jpg",
+        "type": "Video",
+        "videoId": "playlist/C_est_ca_l_histoire/07_-_Le_cercle_des_podcasters_débutants",
+        "seen": false,
+        "file": "/media/hdd/Videos/C_est_ca_l_histoire/07_-_Le_cercle_des_podcasters_débutants.mp4",
+        "title": "07 - Le cercle des podcasters débutants",
+        "duration": "2:53"
+    },
+    {
+        "duration": "2:44",
+        "title": "08 - Alienacé, un 8e de poulet",
+        "seen": false,
+        "file": "/media/hdd/Videos/C_est_ca_l_histoire/08_-_Alienacé,_un_8e_de_poulet.mp4",
+        "image": "images/small-08_-_Alienacé,_un_8e_de_poulet.jpg",
+        "age": 18,
+        "videoId": "playlist/C_est_ca_l_histoire/08_-_Alienacé,_un_8e_de_poulet",
+        "type": "Video"
+    },
+    {
+        "duration": "3:31",
+        "title": "09 - X-men - Lutte des Classes",
+        "file": "/media/hdd/Videos/C_est_ca_l_histoire/09_-_X-men_-_Lutte_des_Classes.mp4",
+        "seen": false,
+        "type": "Video",
+        "videoId": "playlist/C_est_ca_l_histoire/09_-_X-men_-_Lutte_des_Classes",
+        "image": "images/small-09_-_X-men_-_Lutte_des_Classes.jpg",
+        "age": 18
+    },
+    {
+        "type": "Video",
+        "videoId": "playlist/C_est_ca_l_histoire/10_-_Lord_of_Seeds",
+        "image": "images/small-10_-_Lord_of_Seeds.jpg",
+        "age": 18,
+        "file": "/media/hdd/Videos/C_est_ca_l_histoire/10_-_Lord_of_Seeds.mp4",
+        "seen": false,
+        "title": "10 - Lord of Seeds",
+        "duration": "2:50"
+    },
+    {
+        "duration": "3:00",
+        "title": "11 - - Le Seigneur des Bac Pro",
+        "seen": false,
+        "file": "/media/hdd/Videos/C_est_ca_l_histoire/11_-_-_Le_Seigneur_des_Bac_Pro.mp4",
+        "image": "images/small-11_-_-_Le_Seigneur_des_Bac_Pro.jpg",
+        "age": 18,
+        "type": "Video",
+        "videoId": "playlist/C_est_ca_l_histoire/11_-_-_Le_Seigneur_des_Bac_Pro"
+    },
+    {
+        "file": "/media/hdd/Videos/C_est_ca_l_histoire/12_-_-_Pocahontas,_une_légende_décoloniale.mp4",
+        "seen": false,
+        "type": "Video",
+        "videoId": "playlist/C_est_ca_l_histoire/12_-_-_Pocahontas,_une_légende_décoloniale",
+        "age": 18,
+        "image": "images/small-12_-_-_Pocahontas,_une_légende_décoloniale.jpg",
+        "duration": "2:41",
+        "title": "12 - - Pocahontas, une légende décoloniale"
+    },
+    {
+        "title": "LE FIN DE C_EST ÇA L_HISTOIRE",
+        "duration": "0:48",
+        "age": 18,
+        "image": "images/small-LE_FIN_DE_C_EST_ÇA_L_HISTOIRE.jpg",
+        "type": "Video",
+        "videoId": "playlist/C_est_ca_l_histoire/LE_FIN_DE_C_EST_ÇA_L_HISTOIRE",
+        "seen": false,
+        "file": "/media/hdd/Videos/C_est_ca_l_histoire/LE_FIN_DE_C_EST_ÇA_L_HISTOIRE.mp4"
+    },
+    {
+        "seen": false,
+        "file": "/media/hdd/Videos/C_est_ca_l_histoire/13_-_-_Le_queer_de_Notre-Dame.mp4",
+        "image": "images/small-13_-_-_Le_queer_de_Notre-Dame.jpg",
+        "age": 18,
+        "type": "Video",
+        "videoId": "playlist/C_est_ca_l_histoire/13_-_-_Le_queer_de_Notre-Dame",
+        "duration": "3:01",
+        "title": "13 - - Le queer de Notre-Dame"
+    },
+    {
+        "title": "",
+        "duration": "",
+        "age": 18,
+        "image": "images/small-.jpg",
+        "videoId": "playlist/C_est_ca_l_histoire/",
+        "type": "Video",
+        "seen": true,
+        "file": "/media/hdd/Videos/C_est_ca_l_histoire/.mp4"
+    },
+    {
+        "title": "13 - - Le queer de Notre-Dame",
+        "duration": "3:01",
+        "videoId": "playlist/C_est_ca_l_histoire/13_-_-_Le_queer_de_Notre-Dame",
+        "type": "Video",
+        "image": "images/small-13_-_-_Le_queer_de_Notre-Dame.jpg",
+        "age": 18,
+        "file": "/media/hdd/Videos/C_est_ca_l_histoire/13_-_-_Le_queer_de_Notre-Dame.mp4",
+        "seen": false
+    },
+    {
+        "duration": "2:26",
+        "title": "14 - - Drama park",
+        "file": "/media/hdd/Videos/C_est_ca_l_histoire/14_-_-_Drama_park.mp4",
+        "seen": false,
+        "type": "Video",
+        "videoId": "playlist/C_est_ca_l_histoire/14_-_-_Drama_park",
+        "age": 18,
+        "image": "images/small-14_-_-_Drama_park.jpg"
+    }
+]
