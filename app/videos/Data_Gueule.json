@@ -730,16 +730,6 @@
         "seen": false
     },
     {
-        "title": "",
-        "videoId": "playlist/Data_Gueule/",
-        "type": "Video",
-        "duration": "",
-        "file": "/media/hdd/Videos/Data_Gueule/.mp4",
-        "age": 18,
-        "seen": true,
-        "image": "images/small-.jpg"
-    },
-    {
         "age": 18,
         "duration": "12:07",
         "file": "/media/hdd/Videos/Data_Gueule/68_-_Marketing_politique_:_Démocra-ciblée.mp4",
@@ -758,16 +748,6 @@
         "type": "Video",
         "videoId": "playlist/Data_Gueule/69_-_Agriculture_industrielle_:_produire_à_mort",
         "title": "69 - Agriculture industrielle : produire à mort"
-    },
-    {
-        "title": "",
-        "videoId": "playlist/Data_Gueule/",
-        "type": "Video",
-        "file": "/media/hdd/Videos/Data_Gueule/.mp4",
-        "seen": false,
-        "age": 18,
-        "duration": "",
-        "image": "images/small-.jpg"
     },
     {
         "type": "Video",
@@ -798,16 +778,6 @@
         "title": "71 - Inégalité des sexes : Liberté, Égalité, Adelphité",
         "videoId": "playlist/Data_Gueule/71_-_Inégalité_des_sexes_:_Liberté,_Égalité,_Adelphité",
         "type": "Video"
-    },
-    {
-        "title": "",
-        "videoId": "playlist/Data_Gueule/",
-        "type": "Video",
-        "duration": "",
-        "file": "/media/hdd/Videos/Data_Gueule/.mp4",
-        "age": 18,
-        "seen": false,
-        "image": "images/small-.jpg"
     },
     {
         "type": "Video",

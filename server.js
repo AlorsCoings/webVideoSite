@@ -14,7 +14,7 @@ var server = http.createServer(app);
 var io = require('socket.io').listen(server);
 
 // all environments
-app.set('port', 80);
+app.set('port', 8000);
 app.engine('html', require('ejs').renderFile);
 
 // express/connect middleware

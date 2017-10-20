@@ -190,16 +190,6 @@
         "type": "Video"
     },
     {
-        "image": "images/small-.jpg",
-        "type": "Video",
-        "duration": "",
-        "videoId": "playlist/Hygiene_Mentale/",
-        "title": "",
-        "seen": false,
-        "age": 18,
-        "file": "/media/hdd/Videos/Hygiene_Mentale/.mp4"
-    },
-    {
         "file": "/media/hdd/Videos/Hygiene_Mentale/Illusionnisme_et_Imposture_-_Florent_Martin.mp4",
         "age": 18,
         "title": "Illusionnisme et Imposture - Florent Martin",

@@ -28,8 +28,10 @@
         self.updateDurationClass = updateDurationClass;
         self.durationClass = "col-xs-12";
 
-        updateHref();
-        updateDurationClass();
+        self.$onInit = function() {
+            updateHref();
+            updateDurationClass();
+        }
 
         function updateDurationClass() {
             if (self.video.type === "Video") {
