@@ -83,7 +83,7 @@
         "title": "Les crocodiles",
         "type": "Video",
         "image": "images/small-Les_crocodiles.jpg",
-        "seen": false,
+        "seen": true,
         "videoId": "playlist/CestPasSorcier/Les_crocodiles",
         "age": 3,
         "file": "/media/hdd/Videos/CestPasSorcier/Les_crocodiles.mp4",
