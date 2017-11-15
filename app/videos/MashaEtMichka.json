@@ -206,7 +206,7 @@
         "duration": "58:26",
         "file": "/media/hdd/Videos/MashaEtMichka/Une_grande_collection_de_dessins_animés_(Partie_1)_60_min_pour_enfants_en_Français.mp4",
         "title": "Une grande collection de dessins animés (Partie 1) 60 min pour enfants en Français",
-        "seen": false,
+        "seen": true,
         "image": "images/small-Une_grande_collection_de_dessins_animés_(Partie_1)_60_min_pour_enfants_en_Français.jpg"
     },
     {
@@ -241,7 +241,7 @@
     },
     {
         "title": "Сompilation 3 (20 minutes) Longue duree dessins animés pour bébé",
-        "seen": false,
+        "seen": true,
         "image": "images/small-Сompilation_3_(20_minutes)_Longue_duree_dessins_animés_pour_bébé.jpg",
         "age": 3,
         "videoId": "playlist/MashaEtMichka/Сompilation_3_(20_minutes)_Longue_duree_dessins_animés_pour_bébé",

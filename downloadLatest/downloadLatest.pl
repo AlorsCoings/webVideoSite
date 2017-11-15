@@ -137,7 +137,7 @@ if (-e $runningFile) {
                     } else {
                         printf "ffmpegthumbnailer exited with value %d", $? >> 8;
                         my $smallImageFile = $smallImageDirectory . "small-" . $newVideoTitleUnderscore . ".jpg";
-                        system("/usr/bin/convert", $tempImageFile, "-resize",  "300x400", "-density", "1x1", $smallImageFile);
+                        system("/usr/bin/convert", $tempImageFile, "-resize",  "300x400", "-density", "1x1", "-gravity", "center", "-crop", "300x400+0+0", "+repage", $smallImageFile);
                         if ( $? == -1 ) {
                             print "Convert failed: $!\n";
                         } else {

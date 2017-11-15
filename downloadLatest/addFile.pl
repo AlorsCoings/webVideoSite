@@ -71,7 +71,7 @@ while ($i < $numArgs) {
             } else {
                 printf "ffmpegthumbnailer exited with value %d", $? >> 8;
                 my $tempImageFile = $imageDirectory . $fileNameUnderscore . ".jpg";
-                system("/usr/bin/convert", $tempImageFile, "-resize",  "300x400", "-density", "1x1", $smallImageDirectory . "small-" . $fileNameUnderscore . ".jpg");
+                system("/usr/bin/convert", $tempImageFile, "-resize",  "300x400^", "-density", "1x1", "-gravity", "center", "-crop", "300x400+0+0", "+repage", $smallImageDirectory . "small-" . $fileNameUnderscore . ".jpg");
                 if ( $? == -1 ) {
                     print "Convert failed: $!\n";
                 } else {
