@@ -8,7 +8,6 @@ var favicon = require('serve-favicon');
 var morgan = require('morgan'); // formerly express.logger
 var errorhandler = require('errorhandler');
 var app = express();
-var EventEmitter = require("events").EventEmitter;
 
 var server = http.createServer(app);
 var io = require('socket.io').listen(server);
@@ -79,12 +78,20 @@ var pipe = false;
 var map = false;
 var playlistVideos = [];
 
+function turn_on_and_switch_tv() {
+    console.log('Turning on tv');
+    exec('echo "on 0" | cec-client -s');
+    console.log('Switching to raspberry pi input (1.0.0.0) for tv');
+    exec('echo "tx 4F:82:10:00" | cec-client -s');
+}
+
 function omx(mapper) {
     map = mapper;
     return omx.express;
 }
 
 omx.start = function(onFinish) {
+    turn_on_and_switch_tv();
     if (!pipe && playlistVideos.length > 0) {
         var video = playlistVideos.shift();
         var videoFile = video.file;
