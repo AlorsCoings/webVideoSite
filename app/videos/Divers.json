@@ -392,7 +392,7 @@
         "image": "images/small-La_reine_des_neiges_-_Je_voudrais_un_bonhomme_de_neige.jpg",
         "title": "La reine des neiges - Je voudrais un bonhomme de neige",
         "age": 3,
-        "seen": false,
+        "seen": true,
         "type": "Video",
         "file": "/media/hdd/Videos/Divers/La_reine_des_neiges_-_Je_voudrais_un_bonhomme_de_neige.mp4",
         "duration": "3:22",
@@ -403,7 +403,7 @@
         "title": "La reine des neiges - Do You Want to Build a Snowman",
         "age": 3,
         "file": "/media/hdd/Videos/Divers/La_reine_des_neiges_-_Do_You_Want_to_Build_a_Snowman.mp4",
-        "seen": false,
+        "seen": true,
         "type": "Video",
         "duration": "3:21",
         "videoId": "playlist/Divers/La_reine_des_neiges_-_Do_You_Want_to_Build_a_Snowman"

@@ -150,7 +150,7 @@
         "age": 3
     },
     {
-        "seen": false,
+        "seen": true,
         "title": "Ne Pas Déranger Avant Le Printemps (Épisode 2)",
         "image": "images/small-Ne_Pas_Déranger_Avant_Le_Printemps_(Épisode_2).jpg",
         "age": 3,
@@ -271,7 +271,7 @@
     },
     {
         "image": "images/small-Сompilation_6_(20_minutes)_Dessins_animés_en_Français_2016!.jpg",
-        "seen": false,
+        "seen": true,
         "title": "Сompilation 6 (20 minutes) Dessins animés en Français 2016!",
         "file": "/media/hdd/Videos/MashaEtMichka/Сompilation_6_(20_minutes)_Dessins_animés_en_Français_2016!.mp4",
         "type": "Video",
